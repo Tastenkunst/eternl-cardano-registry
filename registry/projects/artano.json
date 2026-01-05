@@ -1,0 +1,20 @@
+{
+  "label": "Artano.",
+  "caption": "",
+  "summary": "Artano is a community-curated NFT marketplace on Cardano",
+  "description": "Artano is a community-curated NFT marketplace on Cardano",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/artano__io",
+    "website": "https://artano.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace"
+    },
+    "purposes": {
+      "Marketplace": "SPEND"
+    }
+  }
+}

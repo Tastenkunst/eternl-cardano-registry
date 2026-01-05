@@ -1,0 +1,17 @@
+{
+  "label": "GeniusYield",
+  "caption": "",
+  "summary": "",
+  "description": "",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {},
+  "scriptMappings": {
+    "names": {
+      "GeniusYieldOrderBook": "GeniusYieldOrderBook"
+    },
+    "purposes": {
+      "GeniusYieldOrderBook": "SPEND"
+    }
+  }
+}

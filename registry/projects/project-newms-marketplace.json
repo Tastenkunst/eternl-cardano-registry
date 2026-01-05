@@ -1,0 +1,34 @@
+{
+  "label": "Project NEWM's Marketplace",
+  "caption": "",
+  "summary": "The NEWM Marketplace for streaming royalty rights tokens.",
+  "description": "The NEWM Marketplace for streaming royalty rights tokens.",
+  "category": "MARKETPLACE",
+  "subCategory": "ORDERBOOK_DEX",
+  "link": {
+    "x": "https://x.com/projectNEWM",
+    "website": "https://marketplace.newm.io/"
+  },
+  "scriptMappings": {
+    "names": {
+      "NEWMMonsterBandLockUp": "NEWM Monster Band Lock Up",
+      "BatcherCertificate": "Batcher Certificate",
+      "MarketplacePointer": "Marketplace Pointer",
+      "MarketplaceQueue": "Marketplace Queue",
+      "DataReference": "Data Reference",
+      "MarketplaceSale": "Marketplace Sale",
+      "Staking/DRep/Voting": "Staking/DRep/Voting",
+      "MarketplaceVault": "Marketplace Vault"
+    },
+    "purposes": {
+      "NEWMMonsterBandLockUp": "SPEND",
+      "BatcherCertificate": "MINT",
+      "MarketplacePointer": "MINT",
+      "MarketplaceQueue": "SPEND",
+      "DataReference": "SPEND",
+      "MarketplaceSale": "SPEND",
+      "Staking/DRep/Voting": "WITHDRAW/PUBLISH/VOTE",
+      "MarketplaceVault": "SPEND"
+    }
+  }
+}

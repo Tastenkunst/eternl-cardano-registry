@@ -1,0 +1,16 @@
+{
+  "label": "NFTJAM",
+  "caption": "",
+  "summary": "A Cardano NFT marketplace with advanced listing and data features",
+  "description": "A Cardano NFT marketplace with advanced listing and data features",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/nftjam_io",
+    "website": "https://nftjam.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

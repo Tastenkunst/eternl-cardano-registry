@@ -1,0 +1,32 @@
+{
+  "label": "MutantNFTs",
+  "caption": "",
+  "summary": "A platform with a variety of utilities for NFT projects offering: raffles, staking and whitelist management services for Cardano NFT projects",
+  "description": "A platform with a variety of utilities for NFT projects offering: raffles, staking and whitelist management services for Cardano NFT projects",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/MutantNFTs",
+    "website": "https://labs.mutant-nft.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Mutantstaking": "Mutant staking",
+      "Mutanttoken": "Mutant token",
+      "onchainraffle": "onchain raffle",
+      "Mutantstakingservice": "Mutant staking service",
+      "BurnedNFTvalidator": "Burned NFT validator",
+      "NewNFTmetadatareference": "New NFT metadata reference",
+      "Marketplace": "Marketplace"
+    },
+    "purposes": {
+      "Mutantstaking": "SPEND",
+      "Mutanttoken": "SPEND",
+      "onchainraffle": "SPEND",
+      "Mutantstakingservice": "SPEND",
+      "BurnedNFTvalidator": "SPEND",
+      "NewNFTmetadatareference": "SPEND",
+      "Marketplace": "SPEND"
+    }
+  }
+}

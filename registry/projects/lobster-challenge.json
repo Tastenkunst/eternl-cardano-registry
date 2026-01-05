@@ -1,0 +1,15 @@
+{
+  "label": "Lobster Challenge",
+  "caption": "",
+  "summary": "Simple Plutus contract to help give Charles' stuffed lobster a name",
+  "description": "Simple Plutus contract to help give Charles' stuffed lobster a name",
+  "category": "COMMUNITY",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "website": "https://github.com/input-output-hk/lobster-challenge"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

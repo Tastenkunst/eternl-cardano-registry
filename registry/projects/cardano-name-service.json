@@ -1,0 +1,16 @@
+{
+  "label": "Cardano Name Service",
+  "caption": "",
+  "summary": "Cardano Name Service (CNS) is a platform for social networking on the Cardano network, empowering users to create and manage secure social profiles on Cardano, with .ada domains acting as gateways to their social identity.",
+  "description": "Cardano Name Service (CNS) is a platform for social networking on the Cardano network, empowering users to create and manage secure social profiles on Cardano, with .ada domains acting as gateways to their social identity.",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/CNSCardano",
+    "website": "https://cns.space"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

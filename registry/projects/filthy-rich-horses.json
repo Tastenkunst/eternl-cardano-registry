@@ -1,0 +1,16 @@
+{
+  "label": "Filthy Rich Horses",
+  "caption": "",
+  "summary": "An NFT collection and one of the first projects to implement a smart contract marketplace",
+  "description": "An NFT collection and one of the first projects to implement a smart contract marketplace",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/FRHorses",
+    "website": "https://www.filthyrichhorses.com"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

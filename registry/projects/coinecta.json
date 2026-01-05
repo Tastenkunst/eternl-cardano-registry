@@ -1,0 +1,22 @@
+{
+  "label": "Coinecta",
+  "caption": "",
+  "summary": "Coinecta is a next-generation Cardano-based token launch platform, striving to be the launchpad of choice for innovative blockchain projects.",
+  "description": "Coinecta is a next-generation Cardano-based token launch platform, striving to be the launchpad of choice for innovative blockchain projects.",
+  "category": "DEFI",
+  "subCategory": "LAUNCHPAD",
+  "link": {
+    "x": "https://x.com/CoinectaFinance",
+    "website": "https://coinecta.fi"
+  },
+  "scriptMappings": {
+    "names": {
+      "StakeProxy": "Stake Proxy",
+      "StakePool": "Stake Pool"
+    },
+    "purposes": {
+      "StakeProxy": "SPEND",
+      "StakePool": "SPEND"
+    }
+  }
+}

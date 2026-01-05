@@ -1,0 +1,16 @@
+{
+  "label": "ENCOINS",
+  "caption": "",
+  "summary": "ENCOINS is a decentralized private accounts and payments protocol on the Cardano blockchain.",
+  "description": "ENCOINS is a decentralized private accounts and payments protocol on the Cardano blockchain.",
+  "category": "DEFI",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/ENCOINS1",
+    "website": "https://encoins.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

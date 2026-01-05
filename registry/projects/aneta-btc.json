@@ -1,0 +1,28 @@
+{
+  "label": "anetaBTC",
+  "caption": "",
+  "summary": "A decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano blockchains",
+  "description": "A decentralized, secure protocol that allows users to unlock the value of their Bitcoin on Ergo and Cardano blockchains",
+  "category": "DEFI",
+  "subCategory": "WRAPPED_ASSETS",
+  "link": {
+    "x": "https://x.com/anetaBTC",
+    "website": "https://anetabtc.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "cNETAstaking": "cNETA staking",
+      "Guardianvalidator": "Guardian validator",
+      "Multisigvalidator": "Multisig validator",
+      "cBTC": "cBTC",
+      "MultiSigCert": "MultiSigCert"
+    },
+    "purposes": {
+      "cNETAstaking": "SPEND",
+      "Guardianvalidator": "SPEND",
+      "Multisigvalidator": "SPEND",
+      "cBTC": "MINT",
+      "MultiSigCert": "MINT"
+    }
+  }
+}

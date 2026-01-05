@@ -1,0 +1,20 @@
+{
+  "label": "Artifct",
+  "caption": "",
+  "summary": "A feature rich marketplace for NFTs with seamless listings and auctions",
+  "description": "A feature rich marketplace for NFTs with seamless listings and auctions",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/ArtifctApp",
+    "website": "https://artifct.app"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace"
+    },
+    "purposes": {
+      "Marketplace": "SPEND"
+    }
+  }
+}

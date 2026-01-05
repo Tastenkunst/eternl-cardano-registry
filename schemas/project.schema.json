@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://eternl.io/schemas/project.schema.json",
+  "title": "Project",
+  "description": "Project registry entry with metadata and script mappings",
+  "type": "object",
+  "required": ["label", "category", "subCategory"],
+  "properties": {
+    "label": {
+      "type": "string",
+      "description": "Display name of the project",
+      "minLength": 1
+    },
+    "caption": {
+      "type": "string",
+      "description": "Short tagline"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Brief summary"
+    },
+    "description": {
+      "type": "string",
+      "description": "Longer description"
+    },
+    "category": {
+      "type": "string",
+      "description": "Main category",
+      "enum": [
+        "DEFI",
+        "MARKETPLACE",
+        "COLLECTION",
+        "GAMING",
+        "COMMUNITY",
+        "TOKEN_DISTRIBUTION",
+        "STABLECOIN",
+        "MOBILE_NETWORK",
+        "GENERIC",
+        "SMART_WALLET",
+        "LAYER_2",
+        "BLOCKCHAIN",
+        "NFT_MINTING_PLATFORM",
+        "UNKNOWN"
+      ]
+    },
+    "subCategory": {
+      "type": "string",
+      "description": "Sub-category",
+      "enum": [
+        "AMM_DEX",
+        "ORDERBOOK_DEX",
+        "HYBRID_DEX",
+        "CONCENTRATED_LIQUIDITY_DEX",
+        "LENDING_BORROWING",
+        "NFT",
+        "ORACLE",
+        "WRAPPED_ASSETS",
+        "DEX",
+        "DEX_AGGREGATOR",
+        "CHARITY",
+        "STAKING",
+        "PERPETUALS",
+        "LAUNCHPAD",
+        "MINING",
+        "SYNTHETICS",
+        "OPTION",
+        "STEALTH_WALLET",
+        "UNKNOWN"
+      ]
+    },
+    "link": {
+      "type": "object",
+      "description": "Social and website links",
+      "properties": {
+        "website": { "type": "string", "format": "uri" },
+        "documentation": { "type": "string", "format": "uri" },
+        "x": { "type": "string", "format": "uri" },
+        "discord": { "type": "string", "format": "uri" },
+        "reddit": { "type": "string", "format": "uri" },
+        "telegram": { "type": "string", "format": "uri" },
+        "github": { "type": "string", "format": "uri" },
+        "medium": { "type": "string", "format": "uri" },
+        "forum": { "type": "string", "format": "uri" },
+        "linkedin": { "type": "string", "format": "uri" },
+        "youtube": { "type": "string", "format": "uri" },
+        "facebook": { "type": "string", "format": "uri" },
+        "linktree": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "scriptMappings": {
+      "type": "object",
+      "description": "Script name mappings and purposes",
+      "properties": {
+        "names": {
+          "type": "object",
+          "additionalProperties": { "type": "string" }
+        },
+        "purposes": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["names", "purposes"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,16 @@
+{
+  "label": "flipr.io",
+  "caption": "",
+  "summary": "An NFT Marketplace on the Cardano network",
+  "description": "An NFT Marketplace on the Cardano network",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/flipr_io",
+    "website": "https://flipr.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

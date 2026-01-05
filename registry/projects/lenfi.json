@@ -1,0 +1,44 @@
+{
+  "label": "Lenfi",
+  "caption": "",
+  "summary": "Fully decentralized lending and borrowing protocol backed with NFT’s and built on Cardano blockchain. Borrowers and lenders lock their loans and deposits into NFT-Bonds redeemable by anyone who provides the underlying NFT and fulfills the loan conditions",
+  "description": "Fully decentralized lending and borrowing protocol backed with NFT’s and built on Cardano blockchain. Borrowers and lenders lock their loans and deposits into NFT-Bonds redeemable by anyone who provides the underlying NFT and fulfills the loan conditions",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/LenfiOfficial",
+    "website": "https://lenfi.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "OldAADAtokenburn": "Old AADA token burn",
+      "Burnvalidator": "Burn validator",
+      "BorrowerNFT-Bondtoken": "Borrower NFT-Bond token",
+      "LenderNFT-Bondtoken": "Lender NFT-Bond token",
+      "Createloanrequest": "Create loan request",
+      "Startloan": "Start loan",
+      "Repayloan": "Repay loan",
+      "Claimliquidatedcollateral": "Claim liquidated collateral",
+      "Debtrequest": "Debt request",
+      "AADAstaking": "AADA staking",
+      "DEPOSITto/WITHDRAWfrompool": "DEPOSIT to/WITHDRAW from pool",
+      "REPAIDtopool": "REPAID to pool",
+      "CREATEDnewpool": "CREATED new pool"
+    },
+    "purposes": {
+      "OldAADAtokenburn": "SPEND",
+      "Burnvalidator": "SPEND",
+      "BorrowerNFT-Bondtoken": "MINT",
+      "LenderNFT-Bondtoken": "MINT",
+      "Createloanrequest": "SPEND",
+      "Startloan": "SPEND",
+      "Repayloan": "SPEND",
+      "Claimliquidatedcollateral": "SPEND",
+      "Debtrequest": "SPEND",
+      "AADAstaking": "SPEND",
+      "DEPOSITto/WITHDRAWfrompool": "SPEND",
+      "REPAIDtopool": "SPEND",
+      "CREATEDnewpool": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "label": "Kreate",
+  "caption": "",
+  "summary": "An Artist-first platform, making Web3 accessible to indie artists",
+  "description": "An Artist-first platform, making Web3 accessible to indie artists",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/KreatePlatform",
+    "website": "https://kreate.community"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace",
+      "Offer/Reservation": "Offer/Reservation",
+      "Auction": "Auction"
+    },
+    "purposes": {
+      "Marketplace": "SPEND",
+      "Offer/Reservation": "SPEND",
+      "Auction": "SPEND"
+    }
+  }
+}

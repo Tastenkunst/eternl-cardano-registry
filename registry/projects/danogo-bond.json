@@ -1,0 +1,20 @@
+{
+  "label": "Danogo Bond",
+  "caption": "",
+  "summary": "The first DEX trading Optim Bond tokens on Cardano",
+  "description": "The first DEX trading Optim Bond tokens on Cardano",
+  "category": "DEFI",
+  "subCategory": "DEX",
+  "link": {
+    "x": "https://x.com/danogo_2023",
+    "website": "https://bond.danogo.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "SwapValidator": "Swap Validator"
+    },
+    "purposes": {
+      "SwapValidator": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "label": "MELD",
+  "caption": "",
+  "summary": "MELD is the first DeFi, non-custodial, banking protocol. You can securely lend & borrow both crypto and fiat currencies with ease and stake your MELD tokens for APY",
+  "description": "MELD is the first DeFi, non-custodial, banking protocol. You can securely lend & borrow both crypto and fiat currencies with ease and stake your MELD tokens for APY",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/MELD_labs",
+    "website": "https://www.meld.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "MELDDiamondHandNFT1": "MELD Diamond Hand NFT 1",
+      "MELDDiamondHandNFT2": "MELD Diamond Hand NFT 2",
+      "lockedstakingtoken": "locked staking token",
+      "vestingauthtoken": "vesting auth token",
+      "tokenvesting": "token vesting",
+      "staking1": "staking 1",
+      "staking2": "staking 2",
+      "TokenMigration1": "Token Migration 1",
+      "TokenMigration2": "Token Migration 2"
+    },
+    "purposes": {
+      "MELDDiamondHandNFT1": "MINT",
+      "MELDDiamondHandNFT2": "MINT",
+      "lockedstakingtoken": "MINT",
+      "vestingauthtoken": "MINT",
+      "tokenvesting": "SPEND",
+      "staking1": "SPEND",
+      "staking2": "SPEND",
+      "TokenMigration1": "SPEND",
+      "TokenMigration2": "SPEND"
+    }
+  }
+}

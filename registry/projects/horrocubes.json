@@ -1,0 +1,22 @@
+{
+  "label": "Horrocubes",
+  "caption": "",
+  "summary": "Horrocubes are essentially puzzle boxes that live in the Cardano blockchain",
+  "description": "Horrocubes are essentially puzzle boxes that live in the Cardano blockchain",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/horrocubes",
+    "website": "https://horrocubes.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "KnightOfSwordsXmas": "KnightOfSwordsXmas",
+      "Insania": "Insania"
+    },
+    "purposes": {
+      "KnightOfSwordsXmas": "MINT",
+      "Insania": "MINT"
+    }
+  }
+}

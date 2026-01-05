@@ -1,0 +1,20 @@
+{
+  "label": "Cardano Waifus",
+  "caption": "",
+  "summary": "The first platform for Waifus NFT on Cardano Blockchain. Each Waifus is a one-only limited and personalized art piece.",
+  "description": "The first platform for Waifus NFT on Cardano Blockchain. Each Waifus is a one-only limited and personalized art piece.",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/cardano_waifus",
+    "website": "https://cardanowaifus.digital"
+  },
+  "scriptMappings": {
+    "names": {
+      "Staking-$ARIGATOken": "Staking - $ARIGATOken"
+    },
+    "purposes": {
+      "Staking-$ARIGATOken": "SPEND"
+    }
+  }
+}

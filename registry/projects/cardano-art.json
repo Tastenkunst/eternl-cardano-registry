@@ -1,0 +1,22 @@
+{
+  "label": "Cardano Art",
+  "caption": "",
+  "summary": "A creative and unique NFT collection",
+  "description": "A creative and unique NFT collection",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/CardanoArt",
+    "website": "https://cardano.art"
+  },
+  "scriptMappings": {
+    "names": {
+      "aw0k3noffspring": "aw0k3n offspring",
+      "aw0k3nbreeding": "aw0k3n breeding"
+    },
+    "purposes": {
+      "aw0k3noffspring": "MINT",
+      "aw0k3nbreeding": "SPEND"
+    }
+  }
+}

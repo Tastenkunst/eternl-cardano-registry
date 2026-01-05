@@ -1,0 +1,16 @@
+{
+  "label": "Tokhun",
+  "caption": "",
+  "summary": "An NFT Marketplace built on the Cardano blockchain, established in March 2021",
+  "description": "An NFT Marketplace built on the Cardano blockchain, established in March 2021",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/Tokhun_io",
+    "website": "https://tokhun.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "label": "Charli3",
+  "caption": "",
+  "summary": "Charli3 is a decentralized Oracle designed from the ground up for the Cardano network",
+  "description": "Charli3 is a decentralized Oracle designed from the ground up for the Cardano network",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "link": {
+    "x": "https://x.com/Oraclecharli3",
+    "website": "https://charli3.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "C3Tubural": "C3 Tubural",
+      "Oracle": "Oracle",
+      "OracleFeed": "Oracle Feed"
+    },
+    "purposes": {
+      "C3Tubural": "SPEND",
+      "Oracle": "SPEND",
+      "OracleFeed": "MINT"
+    }
+  }
+}

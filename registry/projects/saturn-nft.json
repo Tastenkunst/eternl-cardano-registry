@@ -1,0 +1,20 @@
+{
+  "label": "SaturnNFT",
+  "caption": "",
+  "summary": "A platform to create, mint, and upgrade Cardano Digital Collectables",
+  "description": "A platform to create, mint, and upgrade Cardano Digital Collectables",
+  "category": "NFT_MINTING_PLATFORM",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/SaturnNFTio",
+    "website": "https://saturnnft.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Upgradecontract": "Upgrade contract"
+    },
+    "purposes": {
+      "Upgradecontract": "SPEND"
+    }
+  }
+}

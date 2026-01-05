@@ -1,0 +1,26 @@
+{
+  "label": "Mad Dog Car Club",
+  "caption": "",
+  "summary": "An exclusive community destined for sustainability",
+  "description": "An exclusive community destined for sustainability",
+  "category": "GAMING",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/MadDogCarClub",
+    "website": "http://maddogcarclub.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "RaffleDetails": "RaffleDetails",
+      "RaffleCounter": "RaffleCounter",
+      "RaffleTicket": "RaffleTicket",
+      "RafflePlaceholder": "RafflePlaceholder"
+    },
+    "purposes": {
+      "RaffleDetails": "SPEND",
+      "RaffleCounter": "SPEND",
+      "RaffleTicket": "MINT",
+      "RafflePlaceholder": "MINT"
+    }
+  }
+}

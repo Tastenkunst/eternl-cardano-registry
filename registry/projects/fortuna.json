@@ -1,0 +1,16 @@
+{
+  "label": "Fortuna",
+  "caption": "",
+  "summary": "Bitcoin style proof of work in smart contract form",
+  "description": "Bitcoin style proof of work in smart contract form",
+  "category": "COMMUNITY",
+  "subCategory": "MINING",
+  "link": {
+    "x": "https://x.com/aiken_eng",
+    "website": "https://aiken-lang.org"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

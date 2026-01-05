@@ -1,0 +1,20 @@
+{
+  "label": "adadomains",
+  "caption": "",
+  "summary": "Own a domain on the Cardano blockchain",
+  "description": "Own a domain on the Cardano blockchain",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/adadomains_io",
+    "website": "https://www.adadomains.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "AdadomainsConfig": "AdadomainsConfig"
+    },
+    "purposes": {
+      "AdadomainsConfig": "MINT"
+    }
+  }
+}

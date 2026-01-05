@@ -1,0 +1,16 @@
+{
+  "label": "Astor Pool Tokens",
+  "caption": "",
+  "summary": "A Cardano stake pool token",
+  "description": "A Cardano stake pool token",
+  "category": "COMMUNITY",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/AstorPool",
+    "website": "https://astorpool.net"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

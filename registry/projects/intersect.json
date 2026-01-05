@@ -1,0 +1,20 @@
+{
+  "label": "Intersect",
+  "caption": "",
+  "summary": "Smart contracts that are maintained by Intersect",
+  "description": "Smart contracts that are maintained by Intersect",
+  "category": "UNKNOWN",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/IntersectMBO",
+    "website": "https://intersectmbo.org/"
+  },
+  "scriptMappings": {
+    "names": {
+      "IntersectTreasurySmartContract": "Intersect Treasury Smart Contract"
+    },
+    "purposes": {
+      "IntersectTreasurySmartContract": "SPEND"
+    }
+  }
+}

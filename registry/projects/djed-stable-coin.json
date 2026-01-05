@@ -1,0 +1,25 @@
+{
+  "label": "Djed StableCoin",
+  "caption": "",
+  "summary": "Cardano's native overcollateralized stablecoin, backed by $ADA and uses $SHEN as a reserve coin",
+  "description": "Cardano's native overcollateralized stablecoin, backed by $ADA and uses $SHEN as a reserve coin",
+  "category": "STABLECOIN",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "website": "https://djed.xyz"
+  },
+  "scriptMappings": {
+    "names": {
+      "DjedOracleNFT": "DjedOracleNFT",
+      "DjedOrderTicket": "DjedOrderTicket",
+      "Reserves": "Reserves",
+      "Djed/Shen": "Djed/Shen"
+    },
+    "purposes": {
+      "DjedOracleNFT": "MINT",
+      "DjedOrderTicket": "MINT",
+      "Reserves": "SPEND",
+      "Djed/Shen": "MINT"
+    }
+  }
+}

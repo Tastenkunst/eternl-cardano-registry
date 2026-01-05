@@ -1,0 +1,24 @@
+{
+  "label": "CSWAP",
+  "caption": "",
+  "summary": "The Progressive Protocol that merges DEX with NFTfi",
+  "description": "The Progressive Protocol that merges DEX with NFTfi",
+  "category": "DEFI",
+  "subCategory": "DEX",
+  "link": {
+    "x": "https://x.com/CswapDEX",
+    "discord": "https://discord.gg/JNFDH8ENd5",
+    "reddit": "https://www.reddit.com/r/CswapDEX/",
+    "telegram": "https://t.me/cswapdex",
+    "medium": "https://medium.com/@cswapdex",
+    "website": "https://www.cswap.fi"
+  },
+  "scriptMappings": {
+    "names": {
+      "OriginsStaking": "Origins Staking"
+    },
+    "purposes": {
+      "OriginsStaking": "SPEND"
+    }
+  }
+}

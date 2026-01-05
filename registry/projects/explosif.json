@@ -1,0 +1,26 @@
+{
+  "label": "Explosif",
+  "caption": "",
+  "summary": "Explosif (formely CNFT.IO) is a marketplace for Cardano Non-Fungible Tokens, launched in July 2021, the first marketplace on Cardano blockchain",
+  "description": "Explosif (formely CNFT.IO) is a marketplace for Cardano Non-Fungible Tokens, launched in July 2021, the first marketplace on Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/Explosif_io",
+    "website": "https://cnft.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace",
+      "Directsale": "Direct sale",
+      "Escrow": "Escrow",
+      "Exchanger": "Exchanger"
+    },
+    "purposes": {
+      "Marketplace": "SPEND",
+      "Directsale": "SPEND",
+      "Escrow": "SPEND",
+      "Exchanger": "SPEND"
+    }
+  }
+}

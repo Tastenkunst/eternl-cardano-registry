@@ -1,0 +1,37 @@
+{
+  "label": "Fluid Tokens",
+  "caption": "Permissionless Lending",
+  "summary": "Revolutionizing Permissionless DeFi With EUTXO Chains",
+  "description": "FluidTokens kicked off its journey on the Cardano blockchain as a DeFi platform, presenting a diverse range of services like lending, borrowing, staking, and an array of other inventive products including rental options, boosted stake features, and more.",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/FluidTokens",
+    "discord": "https://discord.gg/kyyCw4h98B",
+    "github": "https://github.com/fluidtokens",
+    "linkedin": "https://www.linkedin.com/company/fluidtokens",
+    "website": "https://fluidtokens.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "loanrequests": "loan requests",
+      "repayments": "repayments",
+      "activerequestsscript": "active requests script",
+      "flashloans": "flash loans",
+      "poolslending": "pools lending",
+      "lendernftmintscript": "lender nft mint script",
+      "borrowernftmintscript": "borrower nft mint script",
+      "Boostedstake": "Boosted stake"
+    },
+    "purposes": {
+      "loanrequests": "SPEND",
+      "repayments": "SPEND",
+      "activerequestsscript": "SPEND",
+      "flashloans": "SPEND",
+      "poolslending": "SPEND",
+      "lendernftmintscript": "MINT",
+      "borrowernftmintscript": "MINT",
+      "Boostedstake": "SPEND"
+    }
+  }
+}

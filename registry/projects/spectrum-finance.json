@@ -1,0 +1,26 @@
+{
+  "label": "Spectrum Finance",
+  "caption": "",
+  "summary": "Spectrum Finance is a cross-chain DEX built on top of decentralized cross-chain messaging protocol - Spectrum Network",
+  "description": "Spectrum Finance is a cross-chain DEX built on top of decentralized cross-chain messaging protocol - Spectrum Network",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/SpectrumLabs_",
+    "website": "https://spectrum.fi"
+  },
+  "scriptMappings": {
+    "names": {
+      "liquiditypool": "liquidity pool",
+      "swap": "swap",
+      "deposit": "deposit",
+      "redeem": "redeem"
+    },
+    "purposes": {
+      "liquiditypool": "SPEND",
+      "swap": "SPEND",
+      "deposit": "SPEND",
+      "redeem": "SPEND"
+    }
+  }
+}

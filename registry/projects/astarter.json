@@ -1,0 +1,22 @@
+{
+  "label": "Astarter",
+  "caption": "",
+  "summary": "Astarter is a key DeFi infrastructure hub on Cardano with four core applications: Launchpad(ISPO & IDO), DEX, Money Market & Tech Service Platform.",
+  "description": "Astarter is a key DeFi infrastructure hub on Cardano with four core applications: Launchpad(ISPO & IDO), DEX, Money Market & Tech Service Platform.",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/AstarterDefiHub",
+    "website": "https://www.astarter.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Batcherscript": "Batcher script",
+      "Poolscript": "Pool script"
+    },
+    "purposes": {
+      "Batcherscript": "SPEND",
+      "Poolscript": "SPEND"
+    }
+  }
+}

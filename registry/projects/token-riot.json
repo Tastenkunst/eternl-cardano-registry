@@ -1,0 +1,26 @@
+{
+  "label": "Token Riot",
+  "caption": "",
+  "summary": "The Token Riot Marketplace is a decentralized platform designed for the exchange of UTxOs (Unspent Transaction Outputs) between users.",
+  "description": "The Token Riot Marketplace is a decentralized platform designed for the exchange of UTxOs (Unspent Transaction Outputs) between users.",
+  "category": "MARKETPLACE",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/TokenRiot",
+    "website": "https://tokenriot.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "DataContract": "Data Contract",
+      "Marketplace": "Marketplace",
+      "Minter": "Minter",
+      "CIP68": "CIP68"
+    },
+    "purposes": {
+      "DataContract": "SPEND",
+      "Marketplace": "SPEND",
+      "Minter": "SPEND",
+      "CIP68": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "label": "Fabul.art",
+  "caption": "",
+  "summary": "Luxury 3D NFTs marketplace. One of a kind.",
+  "description": "Luxury 3D NFTs marketplace. One of a kind.",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/Fabul_Art",
+    "website": "https://marketplace.fabul.art"
+  },
+  "scriptMappings": {
+    "names": {
+      "Roleggs": "Roleggs"
+    },
+    "purposes": {
+      "Roleggs": "SPEND"
+    }
+  }
+}

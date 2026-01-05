@@ -1,0 +1,16 @@
+{
+  "label": "Martify Labs",
+  "caption": "",
+  "summary": "A NFT Marketplace on the Cardano Blockchain",
+  "description": "A NFT Marketplace on the Cardano Blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/MartifyLabs",
+    "website": "https://martify.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

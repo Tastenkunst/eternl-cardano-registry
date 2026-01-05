@@ -1,0 +1,20 @@
+{
+  "label": "DripDropz",
+  "caption": "",
+  "summary": "Token dispensing services to the Cardano community",
+  "description": "Token dispensing services to the Cardano community",
+  "category": "TOKEN_DISTRIBUTION",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/DripDropz_io",
+    "website": "https://dripdropz.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "DripDropzTokenClaiming": "DripDropz Token Claiming"
+    },
+    "purposes": {
+      "DripDropzTokenClaiming": "SPEND"
+    }
+  }
+}

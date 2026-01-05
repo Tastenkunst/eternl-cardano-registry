@@ -1,0 +1,20 @@
+{
+  "label": "Milkomeda C1",
+  "caption": "",
+  "summary": "EVM-based sidechain connected to Cardano",
+  "description": "EVM-based sidechain connected to Cardano",
+  "category": "BLOCKCHAIN",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/Milkomeda_com",
+    "website": "https://www.milkomeda.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Cardano-C1bridge": "Cardano-C1 bridge"
+    },
+    "purposes": {
+      "Cardano-C1bridge": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "label": "TeddySwap",
+  "caption": "",
+  "summary": "A scalable decentralized exchange and automated liquidity provision protocol for Cardano Stablecoins and Derivatives.",
+  "description": "A scalable decentralized exchange and automated liquidity provision protocol for Cardano Stablecoins and Derivatives.",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/TeddySwap",
+    "website": "https://www.teddyswap.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "swap": "swap",
+      "liquiditypool": "liquidity pool"
+    },
+    "purposes": {
+      "swap": "SPEND",
+      "liquiditypool": "SPEND"
+    }
+  }
+}

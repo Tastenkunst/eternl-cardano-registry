@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local project notes
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs (if any)
+dist/
+
+# Logs
+*.log
+npm-debug.log*

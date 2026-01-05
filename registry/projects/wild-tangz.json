@@ -1,0 +1,20 @@
+{
+  "label": "Wild Tangz",
+  "caption": "",
+  "summary": "A hand-drawn, unique, orangutan NFT collection that give hodlers additional services (minting, mobile app and more)",
+  "description": "A hand-drawn, unique, orangutan NFT collection that give hodlers additional services (minting, mobile app and more)",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/WildTangz",
+    "website": "https://www.wildtangz.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "On-chainNFTcollectionvotingmachine": "On-chain NFT collection voting machine"
+    },
+    "purposes": {
+      "On-chainNFTcollectionvotingmachine": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "label": "RatsDAO",
+  "caption": "",
+  "summary": "1st Multi-Sig Blue Chip NFT Purchasing DAO on Cardano blockchain",
+  "description": "1st Multi-Sig Blue Chip NFT Purchasing DAO on Cardano blockchain",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/RatsDao",
+    "website": "https://staking.ratsdao.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Staking": "Staking",
+      "MAYZStaking": "MAYZ Staking",
+      "FalconStaking": "Falcon Staking",
+      "Falcon/AldeaStaking": "Falcon/Aldea Staking",
+      "AldeaStaking": "Aldea Staking",
+      "RatsDAOReleased": "RatsDAO Released",
+      "AldeaITO": "Aldea ITO",
+      "RatsDAOMembers": "RatsDAO Members",
+      "Onesies": "Onesies",
+      "RatsDAOGenandGov": "RatsDAO Gen and Gov"
+    },
+    "purposes": {
+      "Staking": "SPEND",
+      "MAYZStaking": "SPEND",
+      "FalconStaking": "SPEND",
+      "Falcon/AldeaStaking": "SPEND",
+      "AldeaStaking": "SPEND",
+      "RatsDAOReleased": "SPEND",
+      "AldeaITO": "SPEND",
+      "RatsDAOMembers": "SPEND",
+      "Onesies": "SPEND",
+      "RatsDAOGenandGov": "SPEND"
+    }
+  }
+}

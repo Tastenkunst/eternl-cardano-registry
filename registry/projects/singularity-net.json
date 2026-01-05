@@ -1,0 +1,24 @@
+{
+  "label": "SingularityNET",
+  "caption": "",
+  "summary": "SingularityNET is the world’s leading decentralised AI marketplace, running on the Cardano blockchain",
+  "description": "SingularityNET is the world’s leading decentralised AI marketplace, running on the Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/singularity_net",
+    "website": "https://singularitynet.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "AGIX": "AGIX",
+      "NTX": "NTX",
+      "AGIXstaking": "AGIX staking"
+    },
+    "purposes": {
+      "AGIX": "MINT",
+      "NTX": "MINT",
+      "AGIXstaking": "SPEND"
+    }
+  }
+}

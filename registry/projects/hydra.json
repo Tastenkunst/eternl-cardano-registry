@@ -1,0 +1,23 @@
+{
+  "label": "Hydra",
+  "caption": "",
+  "summary": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low latency, high throughput) and minimize transaction cost.",
+  "description": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low latency, high throughput) and minimize transaction cost.",
+  "category": "LAYER_2",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "website": "https://hydra.family"
+  },
+  "scriptMappings": {
+    "names": {
+      "HydraHeaddemoapp1": "Hydra Head demo app 1",
+      "HydraHeaddemoapp2": "Hydra Head demo app 2",
+      "HydraHeadV1": "Hydra Head V1"
+    },
+    "purposes": {
+      "HydraHeaddemoapp1": "SPEND",
+      "HydraHeaddemoapp2": "SPEND",
+      "HydraHeadV1": "MINT"
+    }
+  }
+}

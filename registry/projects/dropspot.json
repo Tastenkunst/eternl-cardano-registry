@@ -1,0 +1,32 @@
+{
+  "label": "Dropspot",
+  "caption": "",
+  "summary": "Dropspot is a launchpad for creators, a marketplace for Cardano NFTs.",
+  "description": "Dropspot is a launchpad for creators, a marketplace for Cardano NFTs.",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/dropspot_io",
+    "website": "https://dropspot.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "CreatorLaunchpad": "Creator Launchpad",
+      "Listingandselling": "Listing and selling",
+      "Marketplacecontract/Sale": "Marketplace contract / Sale",
+      "SheDevilsMintControlContract": "She Devils Mint Control Contract",
+      "SheDevilsMintReserveContract": "She Devils Mint Reserve Contract",
+      "QRdanoMintContract": "QRdano Mint Contract",
+      "validator": "validator"
+    },
+    "purposes": {
+      "CreatorLaunchpad": "SPEND",
+      "Listingandselling": "SPEND",
+      "Marketplacecontract/Sale": "SPEND",
+      "SheDevilsMintControlContract": "SPEND",
+      "SheDevilsMintReserveContract": "SPEND",
+      "QRdanoMintContract": "SPEND",
+      "validator": "SPEND"
+    }
+  }
+}

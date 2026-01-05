@@ -1,0 +1,26 @@
+{
+  "label": "Optim Finance",
+  "caption": "Optim Finance",
+  "summary": "Optim Finance creates and enables broad access to yield generation products such as Liquidity Bonds and Strategy Vaults",
+  "description": "Optim Finance creates and enables broad access to yield generation products such as Liquidity Bonds and Strategy Vaults",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/OptimFi",
+    "website": "https://www.optim.finance"
+  },
+  "scriptMappings": {
+    "names": {
+      "OptimEQT": "Optim EQT",
+      "OptimBorrowerToken": "Optim Borrower Token",
+      "OptimBondTokens": "Optim Bond Tokens",
+      "Activebond": "Active bond"
+    },
+    "purposes": {
+      "OptimEQT": "MINT",
+      "OptimBorrowerToken": "MINT",
+      "OptimBondTokens": "MINT",
+      "Activebond": "SPEND"
+    }
+  }
+}

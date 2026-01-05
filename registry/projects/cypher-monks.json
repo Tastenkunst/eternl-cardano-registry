@@ -1,0 +1,19 @@
+{
+  "label": "CypherMonks",
+  "caption": "",
+  "summary": "A token of tribute and memorial",
+  "description": "A token of tribute and memorial",
+  "category": "COMMUNITY",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "website": "https://cyphermonks.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "ATokenforStJude": "A Token for St Jude"
+    },
+    "purposes": {
+      "ATokenforStJude": "SPEND"
+    }
+  }
+}

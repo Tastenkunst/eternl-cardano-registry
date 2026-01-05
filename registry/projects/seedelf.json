@@ -1,0 +1,22 @@
+{
+  "label": "Seedelf",
+  "caption": "",
+  "summary": "A stealth wallet hides the receiver and spender of funds inside the contract.",
+  "description": "A stealth wallet hides the receiver and spender of funds inside the contract.",
+  "category": "SMART_WALLET",
+  "subCategory": "STEALTH_WALLET",
+  "link": {
+    "x": "https://x.com/LogicalMechnism",
+    "website": "https://github.com/logical-mechanism/Seedelf-Wallet"
+  },
+  "scriptMappings": {
+    "names": {
+      "Thiscontracthandlesthesmartwalletinteractions.": "This contract handles the smart wallet interactions.",
+      "Thiscontracthandlesthemintingofseedelftokens.": "This contract handles the minting of seedelf tokens."
+    },
+    "purposes": {
+      "Thiscontracthandlesthesmartwalletinteractions.": "SPEND",
+      "Thiscontracthandlesthemintingofseedelftokens.": "MINT"
+    }
+  }
+}

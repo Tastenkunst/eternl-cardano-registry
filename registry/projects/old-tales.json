@@ -1,0 +1,20 @@
+{
+  "label": "old-tales",
+  "caption": "",
+  "summary": "A complete 78 card Tarot deck, created over 18 months by a team of artists across the world",
+  "description": "A complete 78 card Tarot deck, created over 18 months by a team of artists across the world",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/oldtalesNFT",
+    "website": "https://www.old-tales.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "SaleinNanoFramesatRareBloom": "Sale in Nano Frames at Rare Bloom"
+    },
+    "purposes": {
+      "SaleinNanoFramesatRareBloom": "SPEND"
+    }
+  }
+}

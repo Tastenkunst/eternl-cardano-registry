@@ -1,0 +1,19 @@
+{
+  "label": "Generic",
+  "caption": "",
+  "summary": "Smart contracts that are leveraged by multiple projects and shouldn't be credited to a specific one",
+  "description": "Smart contracts that are leveraged by multiple projects and shouldn't be credited to a specific one",
+  "category": "UNKNOWN",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "website": "https://genericlink.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "AlwaysFailsValidator": "Always Fails Validator"
+    },
+    "purposes": {
+      "AlwaysFailsValidator": "SPEND"
+    }
+  }
+}

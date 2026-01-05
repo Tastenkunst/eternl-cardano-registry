@@ -1,0 +1,20 @@
+{
+  "label": "Derp Birds",
+  "caption": "",
+  "summary": "A community of memelord degens who enjoy digital collectibles",
+  "description": "A community of memelord degens who enjoy digital collectibles",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/DerpBirdsNFT",
+    "website": "https://app.derpbirds.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Outpost": "Outpost"
+    },
+    "purposes": {
+      "Outpost": "SPEND"
+    }
+  }
+}

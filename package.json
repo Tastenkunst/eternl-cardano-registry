@@ -1,0 +1,17 @@
+{
+  "name": "eternl-cardano-registry",
+  "version": "1.0.0",
+  "description": "Unified registry for Cardano smart contract scripts, DApp metadata, and related data",
+  "type": "module",
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "generate-index": "tsx scripts/generate-index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

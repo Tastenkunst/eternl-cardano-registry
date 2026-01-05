@@ -1,0 +1,24 @@
+{
+  "label": "Book.io",
+  "caption": "",
+  "summary": "http://Book.io is a Web3 marketplace for buying, reading, and selling decentralized eBooks and Audiobooks.",
+  "description": "http://Book.io is a Web3 marketplace for buying, reading, and selling decentralized eBooks and Audiobooks.",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/book_io",
+    "website": "https://book.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Time-Lockvalidator": "Time-Lock validator",
+      "Archive": "Archive",
+      "Swapvalidator": "Swap validator"
+    },
+    "purposes": {
+      "Time-Lockvalidator": "SPEND",
+      "Archive": "SPEND",
+      "Swapvalidator": "SPEND"
+    }
+  }
+}

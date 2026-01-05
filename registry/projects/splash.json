@@ -1,0 +1,21 @@
+{
+  "label": "Splash",
+  "caption": "",
+  "summary": "",
+  "description": "",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {},
+  "scriptMappings": {
+    "names": {
+      "SplashCPPBidirState": "SplashCPPBidirState",
+      "SplashCPPState": "SplashCPPState",
+      "SplashSSPState": "SplashSSPState"
+    },
+    "purposes": {
+      "SplashCPPBidirState": "SPEND",
+      "SplashCPPState": "SPEND",
+      "SplashSSPState": "SPEND"
+    }
+  }
+}

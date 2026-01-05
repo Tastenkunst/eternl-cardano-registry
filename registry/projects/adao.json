@@ -1,0 +1,28 @@
+{
+  "label": "ADAO",
+  "caption": "",
+  "summary": "A DAO (decentralized autonomous organization) who is providing open source tools to support DAO infrastructure and promote decentralization on the Cardano blockchain",
+  "description": "A DAO (decentralized autonomous organization) who is providing open source tools to support DAO infrastructure and promote decentralization on the Cardano blockchain",
+  "category": "COMMUNITY",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/ADAOcommunity",
+    "website": "https://www.theadao.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "ADAO/ADALPfor$RAT": "ADAO/ADA LP for $RAT",
+      "ADAOforOriginAether": "ADAO for Origin Aether",
+      "ADAO/ADALPforOriginAether": "ADAO/ADA LP for Origin Aether",
+      "Authority/IdentityNFT": "Authority/Identity NFT",
+      "Plutustreasury": "Plutus treasury"
+    },
+    "purposes": {
+      "ADAO/ADALPfor$RAT": "SPEND",
+      "ADAOforOriginAether": "SPEND",
+      "ADAO/ADALPforOriginAether": "SPEND",
+      "Authority/IdentityNFT": "SPEND",
+      "Plutustreasury": "SPEND"
+    }
+  }
+}

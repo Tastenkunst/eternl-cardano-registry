@@ -1,0 +1,26 @@
+{
+  "label": "Wingriders",
+  "caption": "",
+  "summary": "",
+  "description": "",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/wingriderscom",
+    "linktree": "https://linktr.ee/wingriders"
+  },
+  "scriptMappings": {
+    "names": {
+      "WingRidersCPPState": "WingRidersCPPState",
+      "WingRidersSSPState": "WingRidersSSPState",
+      "WingRidersV2CPPState": "WingRidersV2CPPState",
+      "WingRidersV2SSPState": "WingRidersV2SSPState"
+    },
+    "purposes": {
+      "WingRidersCPPState": "SPEND",
+      "WingRidersSSPState": "SPEND",
+      "WingRidersV2CPPState": "SPEND",
+      "WingRidersV2SSPState": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "Axo",
+  "caption": "",
+  "summary": "Fair and programmable trading protocol for the Cardano blockchain.",
+  "description": "Fair and programmable trading protocol for the Cardano blockchain.",
+  "category": "DEFI",
+  "subCategory": "ORDERBOOK_DEX",
+  "link": {
+    "x": "https://x.com/axotrade",
+    "website": "https://www.axo.trade"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

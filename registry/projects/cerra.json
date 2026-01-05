@@ -1,0 +1,26 @@
+{
+  "label": "Cerra",
+  "caption": "",
+  "summary": "Decentralized Profit-Sharing Finance Hub on Cardano",
+  "description": "Decentralized Profit-Sharing Finance Hub on Cardano",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/Cerra_io",
+    "website": "https://cerra.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Lending": "Lending",
+      "Borrower": "Borrower",
+      "Factory": "Factory",
+      "Lender": "Lender"
+    },
+    "purposes": {
+      "Lending": "SPEND",
+      "Borrower": "MINT",
+      "Factory": "MINT",
+      "Lender": "MINT"
+    }
+  }
+}

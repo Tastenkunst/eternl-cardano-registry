@@ -1,0 +1,20 @@
+{
+  "label": "Summon Platform",
+  "caption": "",
+  "summary": "A comprehensive solution for intuitive DAO creation, on-blockchain voting, governance and treasury management, and access to decentralized finance",
+  "description": "A comprehensive solution for intuitive DAO creation, on-blockchain voting, governance and treasury management, and access to decentralized finance",
+  "category": "COMMUNITY",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/SummonPlatform",
+    "website": "https://summonplatform.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Non-custodialtokensale": "Non-custodial token sale"
+    },
+    "purposes": {
+      "Non-custodialtokensale": "SPEND"
+    }
+  }
+}

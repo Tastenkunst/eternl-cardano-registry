@@ -1,0 +1,16 @@
+{
+  "label": "GOAT Tribe",
+  "caption": "",
+  "summary": "The GOAT Tribe is an NFT Project. A place to connect, and bond with other GOATs.",
+  "description": "The GOAT Tribe is an NFT Project. A place to connect, and bond with other GOATs.",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/adaGOATS",
+    "website": "https://goattribe.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

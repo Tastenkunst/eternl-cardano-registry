@@ -1,0 +1,16 @@
+{
+  "label": "Genesis House",
+  "caption": "",
+  "summary": "A Cardano NFT Marketplace with Smart Contracts",
+  "description": "A Cardano NFT Marketplace with Smart Contracts",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/GenesisHouseIO",
+    "website": "https://www.genesishouse.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

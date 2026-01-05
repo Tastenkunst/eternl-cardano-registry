@@ -1,0 +1,20 @@
+{
+  "label": "ADA Inmates",
+  "caption": "",
+  "summary": "ADA Inmates is a prison ecosystem NFT project on the Cardano Blockchain",
+  "description": "ADA Inmates is a prison ecosystem NFT project on the Cardano Blockchain",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/InmatesOTWT",
+    "website": "https://www.adainmates.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "TheCommissary": "The Commissary"
+    },
+    "purposes": {
+      "TheCommissary": "SPEND"
+    }
+  }
+}

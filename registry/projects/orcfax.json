@@ -1,0 +1,20 @@
+{
+  "label": "Orcfax",
+  "caption": "",
+  "summary": "Decentralized oracle feeds for Cardano smart contracts",
+  "description": "Decentralized oracle feeds for Cardano smart contracts",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "link": {
+    "x": "https://x.com/orcfax",
+    "website": "https://orcfax.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Feed": "Feed"
+    },
+    "purposes": {
+      "Feed": "SPEND"
+    }
+  }
+}

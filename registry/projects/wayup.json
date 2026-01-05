@@ -1,0 +1,21 @@
+{
+  "label": "Wayup",
+  "caption": "Marketplace Aggregation",
+  "summary": "We host listings from other marketplaces with 0 added fees",
+  "description": "Wayup looks to change the game, by providing a central hub for all essential NFT tools and features. We take pride in the foundational layer that Wayup is built on, boasting an extremely efficient and fast Indexer. Wayup is built by collectors, for collectors.",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/wayupio",
+    "discord": "https://discord.gg/74pNJRyHj9",
+    "website": "https://www.wayup.io/"
+  },
+  "scriptMappings": {
+    "names": {
+      "Offers": "Offers"
+    },
+    "purposes": {
+      "Offers": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "label": "Clay Nation",
+  "caption": "",
+  "summary": "Clay animation arts and culture project founded on Cardano",
+  "description": "Clay animation arts and culture project founded on Cardano",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/claymates",
+    "website": "https://www.claynation.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "$CLAYBaking": "$CLAY Baking"
+    },
+    "purposes": {
+      "$CLAYBaking": "SPEND"
+    }
+  }
+}

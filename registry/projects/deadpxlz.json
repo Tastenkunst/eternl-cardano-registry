@@ -1,0 +1,22 @@
+{
+  "label": "DEADPXLZ",
+  "caption": "",
+  "summary": "The first interactive NFT collectibles on the Cardano blockchain",
+  "description": "The first interactive NFT collectibles on the Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/pxlzNFT",
+    "website": "https://pxlz.org"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace",
+      "LPDrive": "LP Drive"
+    },
+    "purposes": {
+      "Marketplace": "SPEND",
+      "LPDrive": "SPEND"
+    }
+  }
+}

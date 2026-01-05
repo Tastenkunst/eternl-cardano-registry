@@ -1,0 +1,28 @@
+{
+  "label": "SpaceBudz",
+  "caption": "",
+  "summary": "Spacebudz is one of the first NFT collections, creating the NFT metadata standard and the first fully smart contract based marketplace",
+  "description": "Spacebudz is one of the first NFT collections, creating the NFT metadata standard and the first fully smart contract based marketplace",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/spacebudzNFT",
+    "website": "https://spacebudz.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace",
+      "Identity-TokenValidator": "Identity-Token Validator",
+      "Identity-TokenPolicy": "Identity-Token Policy",
+      "GateAddress": "Gate Address",
+      "SpacebudzPolicy": "Spacebudz Policy"
+    },
+    "purposes": {
+      "Marketplace": "SPEND",
+      "Identity-TokenValidator": "SPEND",
+      "Identity-TokenPolicy": "MINT",
+      "GateAddress": "SPEND",
+      "SpacebudzPolicy": "MINT"
+    }
+  }
+}

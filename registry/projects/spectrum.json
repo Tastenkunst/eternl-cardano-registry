@@ -1,0 +1,17 @@
+{
+  "label": "Spectrum",
+  "caption": "",
+  "summary": "",
+  "description": "",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {},
+  "scriptMappings": {
+    "names": {
+      "SpectrumCPPState": "SpectrumCPPState"
+    },
+    "purposes": {
+      "SpectrumCPPState": "SPEND"
+    }
+  }
+}

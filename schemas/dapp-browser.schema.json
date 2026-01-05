@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://eternl.io/schemas/dapp-browser.schema.json",
+  "title": "DAppBrowserEntry",
+  "description": "DApp browser entry for Eternl wallet UI",
+  "type": "object",
+  "required": ["categoryList", "url", "urlBridge", "image", "label"],
+  "properties": {
+    "order": {
+      "type": "integer",
+      "description": "Display order (lower = higher priority)",
+      "minimum": 0
+    },
+    "categoryList": {
+      "type": "array",
+      "description": "Categories for filtering",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "keywords": {
+      "type": "array",
+      "description": "Search keywords",
+      "items": { "type": "string" }
+    },
+    "trigger": {
+      "type": "array",
+      "description": "URL triggers/shortcuts",
+      "items": { "type": "string" }
+    },
+    "url": {
+      "type": "string",
+      "description": "Primary dApp URL"
+    },
+    "urlBridge": {
+      "type": "string",
+      "description": "Eternl-specific bridge entrypoint"
+    },
+    "image": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "Icon and banner images",
+          "required": ["icon"],
+          "properties": {
+            "icon": {
+              "type": "string",
+              "description": "Icon image - base64 data URL or URL"
+            },
+            "banner": {
+              "type": "string",
+              "description": "Optional promotional banner image"
+            }
+          }
+        },
+        {
+          "type": "string",
+          "description": "Legacy: icon as string"
+        }
+      ]
+    },
+    "label": {
+      "type": "string",
+      "description": "Display name",
+      "minLength": 1
+    },
+    "caption": {
+      "type": "string",
+      "description": "Short caption/tagline"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Brief summary"
+    },
+    "description": {
+      "type": "string",
+      "description": "Longer description"
+    },
+    "link": {
+      "type": "object",
+      "description": "Social and website links",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "additionalProperties": true
+}

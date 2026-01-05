@@ -1,0 +1,16 @@
+{
+  "label": "PixelCat",
+  "caption": "",
+  "summary": "A cat-themed play and earn based Cardano NFT collection and marketplace on the Cardano blockchain",
+  "description": "A cat-themed play and earn based Cardano NFT collection and marketplace on the Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/pixelcatcnft",
+    "website": "https://www.pixelcatnft.com"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

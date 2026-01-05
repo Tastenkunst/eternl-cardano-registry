@@ -1,0 +1,16 @@
+{
+  "label": "Jam On Bread",
+  "caption": "",
+  "summary": "An NFT Marketplace on Cardano blockchain",
+  "description": "An NFT Marketplace on Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/JamOnBread_com",
+    "website": "https://www.jamonbread.com"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

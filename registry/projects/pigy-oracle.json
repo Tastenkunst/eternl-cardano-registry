@@ -1,0 +1,16 @@
+{
+  "label": "PIGY Oracle",
+  "caption": "",
+  "summary": "A community-driven, minimal-cost oracle to benefit PIGY SPOs",
+  "description": "A community-driven, minimal-cost oracle to benefit PIGY SPOs",
+  "category": "DEFI",
+  "subCategory": "ORACLE",
+  "link": {
+    "x": "https://x.com/pigytoken",
+    "website": "https://oracle.pigytoken.com"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

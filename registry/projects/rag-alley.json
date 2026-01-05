@@ -1,0 +1,22 @@
+{
+  "label": "RagAlley",
+  "caption": "",
+  "summary": "Community marketplace enabling trading of NFTs for ADA and native tokens",
+  "description": "Community marketplace enabling trading of NFTs for ADA and native tokens",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/cryptoraggies",
+    "website": "https://cryptoraggies.io/ragalley"
+  },
+  "scriptMappings": {
+    "names": {
+      "RagAlleyListing": "RagAlley Listing",
+      "RagAlleyAuction": "RagAlley Auction"
+    },
+    "purposes": {
+      "RagAlleyListing": "SPEND",
+      "RagAlleyAuction": "SPEND"
+    }
+  }
+}

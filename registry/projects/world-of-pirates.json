@@ -1,0 +1,20 @@
+{
+  "label": "World of Pirates",
+  "caption": "",
+  "summary": "A fast-paced turn-based strategy card game on the Cardano Blockchain",
+  "description": "A fast-paced turn-based strategy card game on the Cardano Blockchain",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/worldofpirates_",
+    "website": "https://www.worldofpirates.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "JaneWaterScout": "Jane Water Scout"
+    },
+    "purposes": {
+      "JaneWaterScout": "MINT"
+    }
+  }
+}

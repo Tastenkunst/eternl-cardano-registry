@@ -1,0 +1,20 @@
+{
+  "label": "World Mobile Token",
+  "caption": "",
+  "summary": "The world's first mobile network built on the blockchain",
+  "description": "The world's first mobile network built on the blockchain",
+  "category": "MOBILE_NETWORK",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/wmtoken",
+    "website": "https://worldmobiletoken.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Ownership": "Ownership"
+    },
+    "purposes": {
+      "Ownership": "SPEND"
+    }
+  }
+}

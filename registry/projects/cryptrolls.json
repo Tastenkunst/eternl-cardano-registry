@@ -1,0 +1,16 @@
+{
+  "label": "Cryptrolls",
+  "caption": "",
+  "summary": "An NFT based, Play2Earn project",
+  "description": "An NFT based, Play2Earn project",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/cryptrolls",
+    "website": "https://cryptrolls.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

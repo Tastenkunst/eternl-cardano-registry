@@ -1,0 +1,20 @@
+{
+  "label": "Wanchain",
+  "caption": "",
+  "summary": "Driving blockchain adoption through crosschain interoperability by building fully decentralised direct bridges that connect the world’s blockchain networks",
+  "description": "Driving blockchain adoption through crosschain interoperability by building fully decentralised direct bridges that connect the world’s blockchain networks",
+  "category": "DEFI",
+  "subCategory": "WRAPPED_ASSETS",
+  "link": {
+    "x": "https://x.com/wanchain_org",
+    "website": "https://www.wanchain.org"
+  },
+  "scriptMappings": {
+    "names": {
+      "Crosschainbridge": "Cross chain bridge"
+    },
+    "purposes": {
+      "Crosschainbridge": "SPEND"
+    }
+  }
+}

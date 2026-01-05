@@ -1,0 +1,20 @@
+{
+  "label": "Yummi Universe",
+  "caption": "",
+  "summary": "An NFT collection that provides additional services such as staking",
+  "description": "An NFT collection that provides additional services such as staking",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/YummiUniverse",
+    "website": "https://stake.yummiuniverse.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Staking": "Staking"
+    },
+    "purposes": {
+      "Staking": "SPEND"
+    }
+  }
+}

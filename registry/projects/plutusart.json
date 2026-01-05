@@ -1,0 +1,22 @@
+{
+  "label": "Plutus.Art",
+  "caption": "",
+  "summary": "A highly-curated platform for creating, collecting and trading unique NFTs on Cardano blockchain.",
+  "description": "A highly-curated platform for creating, collecting and trading unique NFTs on Cardano blockchain.",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/plutus_art",
+    "website": "https://www.plutus.art"
+  },
+  "scriptMappings": {
+    "names": {
+      "Marketplace": "Marketplace",
+      "TREASURYWITNESS": "TREASURYWITNESS"
+    },
+    "purposes": {
+      "Marketplace": "SPEND",
+      "TREASURYWITNESS": "MINT"
+    }
+  }
+}

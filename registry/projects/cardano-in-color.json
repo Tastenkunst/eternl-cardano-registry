@@ -1,0 +1,20 @@
+{
+  "label": "Cardano in Color",
+  "caption": "",
+  "summary": "A family-safe NFT coloring book. 100% donated to charity.",
+  "description": "A family-safe NFT coloring book. 100% donated to charity.",
+  "category": "COMMUNITY",
+  "subCategory": "CHARITY",
+  "link": {
+    "x": "https://x.com/CardanoInColor",
+    "website": "https://cardanoincolor.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Charitymint": "Charity mint"
+    },
+    "purposes": {
+      "Charitymint": "SPEND"
+    }
+  }
+}

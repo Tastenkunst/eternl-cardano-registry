@@ -1,0 +1,28 @@
+{
+  "label": "Iagon",
+  "caption": "",
+  "summary": "IAGON is bridging decentralization with compliance for Web 3.0",
+  "description": "IAGON is bridging decentralization with compliance for Web 3.0",
+  "category": "MARKETPLACE",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/IagonOfficial",
+    "website": "https://iagon.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "Staking": "Staking",
+      "DataContract": "Data Contract",
+      "NodeContract": "Node Contract",
+      "DelegationContract": "Delegation Contract",
+      "OrderContract": "Order Contract"
+    },
+    "purposes": {
+      "Staking": "SPEND",
+      "DataContract": "SPEND",
+      "NodeContract": "SPEND/MINT",
+      "DelegationContract": "SPEND/MINT",
+      "OrderContract": "SPEND/MINT"
+    }
+  }
+}

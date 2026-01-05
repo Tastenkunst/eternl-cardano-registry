@@ -1,0 +1,22 @@
+{
+  "label": "VyFinance",
+  "caption": "A Dex and SO. MUCH. MORE.",
+  "summary": "VyFi is a Dex & DeFi platform.",
+  "description": "VyFi has been building on Cardano since the early days of smart contracts, consistently delivering innovations that push the ecosystem forward. From launching SafeSwaps (a flexible & affordable alternative to airdrops) - to pioneering a Stakeless LPs, VyFi has redefined how users interact with DeFi. Most recently, it became the first dApp to implement Plutus V3, rebuilding its architecture from the ground up to fully leverage Cardano’s advanced capabilities.",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/VyFiOfficial",
+    "youtube": "https://www.youtube.com/@VyFinance",
+    "telegram": "https://t.me/vyfinance",
+    "discord": "https://discord.com/invite/segPHFjk5T"
+  },
+  "scriptMappings": {
+    "names": {
+      "VyFiCPPState": "VyFiCPPState"
+    },
+    "purposes": {
+      "VyFiCPPState": "SPEND"
+    }
+  }
+}

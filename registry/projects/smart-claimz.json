@@ -1,0 +1,20 @@
+{
+  "label": "SmartClaimz",
+  "caption": "",
+  "summary": "FreeLoaderz SmartClaimz is a reward distribution platform",
+  "description": "FreeLoaderz SmartClaimz is a reward distribution platform",
+  "category": "TOKEN_DISTRIBUTION",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/Freeloaderz2022",
+    "website": "https://smartclaimz.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "SmartClaimzTokenClaiming": "SmartClaimz Token Claiming"
+    },
+    "purposes": {
+      "SmartClaimzTokenClaiming": "SPEND"
+    }
+  }
+}

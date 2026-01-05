@@ -1,0 +1,24 @@
+{
+  "label": "Levvy Finance",
+  "caption": "",
+  "summary": "An innovative Peer-to-Peer NFT lending protocol that allows NFT owners to access instant liquidity from lenders at efficient market rates",
+  "description": "An innovative Peer-to-Peer NFT lending protocol that allows NFT owners to access instant liquidity from lenders at efficient market rates",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/levvyfinance",
+    "website": "https://levvy.fi"
+  },
+  "scriptMappings": {
+    "names": {
+      "Staking": "Staking",
+      "Lending": "Lending",
+      "Lendingv2": "Lending v2"
+    },
+    "purposes": {
+      "Staking": "SPEND",
+      "Lending": "SPEND",
+      "Lendingv2": "SPEND"
+    }
+  }
+}

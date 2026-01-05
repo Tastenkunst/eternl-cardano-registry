@@ -1,0 +1,42 @@
+{
+  "label": "Cardahub",
+  "caption": "",
+  "summary": "Cardahub provides advanced NFT Services on Cardano Blockchain: On-chain/Off-chain smart contract NFT minting and a NFT marketplace powered by Plutus Smart Contract",
+  "description": "Cardahub provides advanced NFT Services on Cardano Blockchain: On-chain/Off-chain smart contract NFT minting and a NFT marketplace powered by Plutus Smart Contract",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/cardahubio",
+    "website": "https://cardahub.io/home"
+  },
+  "scriptMappings": {
+    "names": {
+      "CNFTcollection": "CNFT collection",
+      "RuneFortress": "Rune Fortress",
+      "ShadowRealmsCNFT": "ShadowRealms CNFT",
+      "RoadtoRoyals": "RoadtoRoyals",
+      "EvilApeEmpire": "Evil Ape Empire",
+      "GeniusYieldISPO-FOMO": "Genius Yield ISPO - FOMO",
+      "GeniusYieldISPO-LateFan": "Genius Yield ISPO - Late Fan",
+      "GeniusYieldISPO-DiamondHands": "Genius Yield ISPO - Diamond Hands",
+      "GeniusYieldISPO-Ape": "Genius Yield ISPO - Ape",
+      "GeniusYieldISPO-HODLer": "Genius Yield ISPO - HODLer",
+      "GeniusYieldISPO-Shark": "Genius Yield ISPO - Shark",
+      "GeniusYieldISPO-Degen": "Genius Yield ISPO - Degen"
+    },
+    "purposes": {
+      "CNFTcollection": "MINT",
+      "RuneFortress": "MINT",
+      "ShadowRealmsCNFT": "MINT",
+      "RoadtoRoyals": "MINT",
+      "EvilApeEmpire": "MINT",
+      "GeniusYieldISPO-FOMO": "MINT",
+      "GeniusYieldISPO-LateFan": "MINT",
+      "GeniusYieldISPO-DiamondHands": "MINT",
+      "GeniusYieldISPO-Ape": "MINT",
+      "GeniusYieldISPO-HODLer": "MINT",
+      "GeniusYieldISPO-Shark": "MINT",
+      "GeniusYieldISPO-Degen": "MINT"
+    }
+  }
+}

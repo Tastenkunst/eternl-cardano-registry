@@ -1,0 +1,22 @@
+{
+  "label": "Mashdapp",
+  "caption": "",
+  "summary": "An NFT wrapping smart contract platform on Cardano blockchain",
+  "description": "An NFT wrapping smart contract platform on Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "WRAPPED_ASSETS",
+  "link": {
+    "x": "https://x.com/Mashdapp",
+    "website": "https://www.mashd.app"
+  },
+  "scriptMappings": {
+    "names": {
+      "Mainnettest": "Mainnet test",
+      "ClosedBetatest": "Closed Beta test"
+    },
+    "purposes": {
+      "Mainnettest": "SPEND",
+      "ClosedBetatest": "SPEND"
+    }
+  }
+}

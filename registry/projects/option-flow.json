@@ -1,0 +1,16 @@
+{
+  "label": "OptionFlow",
+  "caption": "",
+  "summary": "The decentralized Option protocol on Cardano",
+  "description": "The decentralized Option protocol on Cardano",
+  "category": "DEFI",
+  "subCategory": "OPTION",
+  "link": {
+    "x": "https://x.com/OptionFlowTeam",
+    "website": "https://app.optionflow.finance"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

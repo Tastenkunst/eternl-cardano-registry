@@ -1,0 +1,17 @@
+{
+  "label": "MuesliSwap",
+  "caption": "",
+  "summary": "",
+  "description": "",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {},
+  "scriptMappings": {
+    "names": {
+      "MuesliSwapCPPState": "MuesliSwapCPPState"
+    },
+    "purposes": {
+      "MuesliSwapCPPState": "SPEND"
+    }
+  }
+}

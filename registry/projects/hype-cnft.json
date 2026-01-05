@@ -1,0 +1,20 @@
+{
+  "label": "H.Y.P.E. CNFT",
+  "caption": "",
+  "summary": "Bespoke digital art on Cardano from an award-winning studio",
+  "description": "Bespoke digital art on Cardano from an award-winning studio",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/haveyouseenhype",
+    "website": "https://www.seehype.com"
+  },
+  "scriptMappings": {
+    "names": {
+      "vaporizer": "vaporizer"
+    },
+    "purposes": {
+      "vaporizer": "SPEND"
+    }
+  }
+}

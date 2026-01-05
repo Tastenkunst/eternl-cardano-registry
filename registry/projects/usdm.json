@@ -1,0 +1,26 @@
+{
+  "label": "$USDM",
+  "caption": "",
+  "summary": "Mehen is at the forefront of creating the USDM fiat-backed stablecoin, an essential tool for Cardano. USDM serves as a base asset for decentralized finance (DeFi) protocols and enables instant on-chain payments. Our vision is to be a scalable catalyst for the growth and adoption of the entire Cardano ecosystem.",
+  "description": "Mehen is at the forefront of creating the USDM fiat-backed stablecoin, an essential tool for Cardano. USDM serves as a base asset for decentralized finance (DeFi) protocols and enables instant on-chain payments. Our vision is to be a scalable catalyst for the growth and adoption of the entire Cardano ecosystem.",
+  "category": "STABLECOIN",
+  "subCategory": "UNKNOWN",
+  "link": {
+    "x": "https://x.com/MehenOfficial",
+    "website": "https://www.mehen.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "controlvalidator": "control validator",
+      "tokencounter": "token counter",
+      "usdmmintingpolicy": "usdm minting policy",
+      "countvalidator": "count validator"
+    },
+    "purposes": {
+      "controlvalidator": "SPEND",
+      "tokencounter": "MINT",
+      "usdmmintingpolicy": "MINT",
+      "countvalidator": "SPEND"
+    }
+  }
+}

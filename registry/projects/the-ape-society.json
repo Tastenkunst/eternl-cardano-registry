@@ -1,0 +1,24 @@
+{
+  "label": "The Ape Society",
+  "caption": "",
+  "summary": "The Ape Society is a collection of 7,000 unique NFTs generated on the Cardano blockchain",
+  "description": "The Ape Society is a collection of 7,000 unique NFTs generated on the Cardano blockchain",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/the_ape_society",
+    "website": "https://www.theapesociety.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "Market": "Market",
+      "Cabinsupgrade": "Cabins upgrade",
+      "LilSappys": "Lil Sappys"
+    },
+    "purposes": {
+      "Market": "SPEND",
+      "Cabinsupgrade": "SPEND",
+      "LilSappys": "SPEND"
+    }
+  }
+}

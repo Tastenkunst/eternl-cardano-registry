@@ -1,0 +1,16 @@
+{
+  "label": "Lending Pond",
+  "caption": "",
+  "summary": "Provide or receive ADA through a smart contract driven P2P lending marketplace using Cardano NFTs as collateral",
+  "description": "Provide or receive ADA through a smart contract driven P2P lending marketplace using Cardano NFTs as collateral",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/lendingpond_ada",
+    "website": "https://lendingpond.app"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

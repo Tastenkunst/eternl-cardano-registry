@@ -1,0 +1,16 @@
+{
+  "label": "Matrix Berry",
+  "caption": "",
+  "summary": "The first CIP-0068 compliant NFT collection on Cardano blockchain",
+  "description": "The first CIP-0068 compliant NFT collection on Cardano blockchain",
+  "category": "COLLECTION",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/berry_ales",
+    "website": "https://matrix.berrypool.io"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

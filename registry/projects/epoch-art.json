@@ -1,0 +1,22 @@
+{
+  "label": "Epoch Art",
+  "caption": "",
+  "summary": "A community-driven NFT marketplace on Cardano blockchain",
+  "description": "A community-driven NFT marketplace on Cardano blockchain",
+  "category": "MARKETPLACE",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/epoch_art",
+    "website": "https://epoch.art"
+  },
+  "scriptMappings": {
+    "names": {
+      "withroyalties": "with royalties",
+      "withoutroyalties": "without royalties"
+    },
+    "purposes": {
+      "withroyalties": "SPEND",
+      "withoutroyalties": "SPEND"
+    }
+  }
+}

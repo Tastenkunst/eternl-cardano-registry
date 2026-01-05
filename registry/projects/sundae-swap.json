@@ -1,0 +1,26 @@
+{
+  "label": "SundaeSwap",
+  "caption": "The sweetest DEX on Cardano.",
+  "summary": "SundaeSwap is a decentralized exchange on Cardano.",
+  "description": "SundaeSwap is a decentralized exchange on Cardano. It is a community-driven project that aims to provide a safe and secure platform for users to trade their tokens.",
+  "category": "DEFI",
+  "subCategory": "AMM_DEX",
+  "link": {
+    "x": "https://x.com/SundaeSwap",
+    "discord": "https://discord.gg/Sundae",
+    "reddit": "https://www.reddit.com/r/SundaeSwap/",
+    "github": "https://github.com/SundaeSwap-finance",
+    "medium": "https://sundaeswap-finance.medium.com/",
+    "forum": "https://forum.sundaeswap.finance/"
+  },
+  "scriptMappings": {
+    "names": {
+      "SundaeSwapCPPState": "SundaeSwapCPPState",
+      "SundaeSwapV3CPPState": "SundaeSwapV3CPPState"
+    },
+    "purposes": {
+      "SundaeSwapCPPState": "SPEND",
+      "SundaeSwapV3CPPState": "SPEND"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "label": "CryptoDino",
+  "caption": "",
+  "summary": "An idle based strategy game built on the Cardano Blockchain. The CryptoDino/Dino Savior NFTs are employed within the game.",
+  "description": "An idle based strategy game built on the Cardano Blockchain. The CryptoDino/Dino Savior NFTs are employed within the game.",
+  "category": "GAMING",
+  "subCategory": "NFT",
+  "link": {
+    "x": "https://x.com/cryptodino_io",
+    "website": "https://www.cryptodino.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "DinoCoin": "Dino Coin",
+      "Dino": "Dino"
+    },
+    "purposes": {
+      "DinoCoin": "MINT",
+      "Dino": "MINT"
+    }
+  }
+}

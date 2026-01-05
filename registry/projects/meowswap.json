@@ -1,0 +1,40 @@
+{
+  "label": "Meowswap",
+  "caption": "",
+  "summary": "Layer 2 DEX",
+  "description": "Layer 2 DEX",
+  "category": "DEFI",
+  "subCategory": "DEX",
+  "link": {
+    "x": "https://x.com/Meow_Swap",
+    "website": "https://meowswap.fi"
+  },
+  "scriptMappings": {
+    "names": {
+      "CLAP/ADApair": "CLAP/ADA pair",
+      "BLUES/ADApair": "BLUES/ADA pair",
+      "SUNDAE/ADApair": "SUNDAE/ADA pair",
+      "DANA/ADApair": "DANA/ADA pair",
+      "MEOW/ADApair": "MEOW/ADA pair",
+      "BISON/ADApair": "BISON/ADA pair",
+      "LPtmwADA": "LPtmwADA",
+      "cdswap-meow-stake-return": "cdswap-meow-stake-return",
+      "OCC/ADApair": "OCC/ADA pair",
+      "meowswap-create": "meowswap-create",
+      "cbTHC/ADApair": "cbTHC/ADA pair"
+    },
+    "purposes": {
+      "CLAP/ADApair": "SPEND",
+      "BLUES/ADApair": "SPEND",
+      "SUNDAE/ADApair": "SPEND",
+      "DANA/ADApair": "SPEND",
+      "MEOW/ADApair": "SPEND",
+      "BISON/ADApair": "SPEND",
+      "LPtmwADA": "SPEND",
+      "cdswap-meow-stake-return": "SPEND",
+      "OCC/ADApair": "SPEND",
+      "meowswap-create": "SPEND",
+      "cbTHC/ADApair": "SPEND"
+    }
+  }
+}

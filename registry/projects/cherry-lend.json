@@ -1,0 +1,16 @@
+{
+  "label": "CherryLend",
+  "caption": "",
+  "summary": "CherryLend is an open-source, secure, and scalable lending and borrowing protocol on the Cardano blockchain.",
+  "description": "CherryLend is an open-source, secure, and scalable lending and borrowing protocol on the Cardano blockchain.",
+  "category": "DEFI",
+  "subCategory": "LENDING_BORROWING",
+  "link": {
+    "x": "https://x.com/Cherry_Lend",
+    "website": "https://cherrylend.org"
+  },
+  "scriptMappings": {
+    "names": {},
+    "purposes": {}
+  }
+}

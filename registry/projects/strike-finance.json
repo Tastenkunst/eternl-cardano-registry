@@ -1,0 +1,28 @@
+{
+  "label": "Strike Finance",
+  "caption": "",
+  "summary": "The Progressive Protocol that merges DEX with NFTfi",
+  "description": "The Progressive Protocol that merges DEX with NFTfi",
+  "category": "DEFI",
+  "subCategory": "PERPETUALS",
+  "link": {
+    "x": "https://x.com/strikecardano",
+    "website": "https://app.strikefinance.org"
+  },
+  "scriptMappings": {
+    "names": {
+      "V1Stakingscript": "V1 Staking script",
+      "PerpsLPScript": "Perps LP Script",
+      "Perpsbatcherscript": "Perps batcher script",
+      "V2StakingScript": "V2 Staking Script",
+      "UnknownbutassociatedwithStrike": "Unknown but associated with Strike"
+    },
+    "purposes": {
+      "V1Stakingscript": "SPEND",
+      "PerpsLPScript": "SPEND",
+      "Perpsbatcherscript": "SPEND",
+      "V2StakingScript": "SPEND",
+      "UnknownbutassociatedwithStrike": "SPEND"
+    }
+  }
+}

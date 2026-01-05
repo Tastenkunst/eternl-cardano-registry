@@ -1,0 +1,24 @@
+{
+  "label": "DexHunter",
+  "caption": "",
+  "summary": "A dex aggregator with the best rates, real-time alerts and an easy to use interface",
+  "description": "A dex aggregator with the best rates, real-time alerts and an easy to use interface",
+  "category": "DEFI",
+  "subCategory": "DEX_AGGREGATOR",
+  "link": {
+    "x": "https://x.com/dexhunterio",
+    "discord": "https://discord.com/invite/TjS72s84tV",
+    "medium": "https://dexhunterio.medium.com/",
+    "website": "https://www.dexhunter.io"
+  },
+  "scriptMappings": {
+    "names": {
+      "StopLossContract": "Stop Loss Contract",
+      "DCAExecute": "DCA Execute"
+    },
+    "purposes": {
+      "StopLossContract": "SPEND",
+      "DCAExecute": "SPEND"
+    }
+  }
+}
