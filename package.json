@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "validate": "tsx scripts/validate.ts",
-    "generate-index": "tsx scripts/generate-index.ts"
+    "generate-index": "tsx scripts/generate-script-index.ts"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
