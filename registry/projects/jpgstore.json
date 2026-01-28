@@ -1,5 +1,9 @@
 {
   "label": "jpg.store",
+  "branding": {
+    "color": "#000000",
+    "bgColor": "#ffd74a"
+  },
   "caption": "The first NFT marketplace on Cardano.",
   "summary": "jpg.store is a decentralized NFT marketplace on Cardano.",
   "description": "jpg.store is a decentralized NFT marketplace on Cardano. It is a community-driven project that aims to provide a safe and secure platform for users to trade their tokens.",

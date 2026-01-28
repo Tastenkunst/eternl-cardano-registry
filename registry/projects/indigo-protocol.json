@@ -1,5 +1,9 @@
 {
   "label": "Indigo Protocol",
+  "branding": {
+    "color": "#ffffff",
+    "bgColor": "#490cb5"
+  },
   "caption": "",
   "summary": "The Indigo Protocol (INDY) is a decentralized synthetic assets protocol built on the Cardano blockchain. It allows users to mint and trade synthetic assets, such as iUSD, iBTC, and iETH, which mirror the value of real-world assets like the US dollar, Bitcoin, and Ethereum, respectively.",
   "description": "An autonomous synthetics protocol for on-chain price exposure to real-world assets, built on Cardano blockchain",

@@ -1,5 +1,9 @@
 {
   "label": "MuesliSwap",
+  "branding": {
+    "color": "#efefef",
+    "bgColor": "#4860f0"
+  },
   "caption": "",
   "summary": "",
   "description": "",

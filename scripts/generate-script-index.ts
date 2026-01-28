@@ -76,6 +76,17 @@ interface ScriptIndex {
   projects: Record<string, ProjectEntry>;
 }
 
+// Map old CRFA project names to preferred labels
+const PROJECT_LABEL_MAP: Record<string, string> = {
+  'CSWAP DEX': 'CSWAP',
+  'Genius Yield': 'GeniusYield',
+  'Splash Protocol': 'Splash',
+};
+
+function normalizeProjectLabel(name: string): string {
+  return PROJECT_LABEL_MAP[name] || name;
+}
+
 function toKebabCase(str: string): string {
   return str
     .replace(/([a-z])([A-Z])/g, '$1-$2')
@@ -118,7 +129,7 @@ function generateScriptIndex(): void {
       // Add project entry if not exists
       if (!projects[projectId]) {
         projects[projectId] = {
-          label: dapp.projectName,
+          label: normalizeProjectLabel(dapp.projectName),
           category: dapp.category || 'UNKNOWN',
           subCategory: dapp.subCategory,
           link: dapp.link

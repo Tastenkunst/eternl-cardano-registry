@@ -1,5 +1,9 @@
 {
   "label": "Strike Finance",
+  "branding": {
+    "color": "#000000",
+    "bgColor": "#26FAB0"
+  },
   "caption": "",
   "summary": "The Progressive Protocol that merges DEX with NFTfi",
   "description": "The Progressive Protocol that merges DEX with NFTfi",
