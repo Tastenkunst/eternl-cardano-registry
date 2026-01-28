@@ -88,6 +88,16 @@
       },
       "additionalProperties": false
     },
+    "branding": {
+      "type": "object",
+      "description": "Brand colors for UI display",
+      "properties": {
+        "color": { "type": "string", "description": "Text color (hex)" },
+        "bgColor": { "type": "string", "description": "Background color (hex)" }
+      },
+      "required": ["color", "bgColor"],
+      "additionalProperties": false
+    },
     "scriptMappings": {
       "type": "object",
       "description": "Script name mappings and purposes",
