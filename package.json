@@ -7,8 +7,13 @@
     "validate": "tsx scripts/validate.ts",
     "generate-index": "tsx scripts/generate-script-index.ts"
   },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg": "^8.11.0"
+  },
   "devDependencies": {
     "@types/node": "^20.0.0",
+    "@types/pg": "^8.10.0",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "tsx": "^4.0.0",

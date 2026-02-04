@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-01-28T15:12:15.099Z",
-    "scriptCount": 2539,
-    "projectCount": 110
+    "generatedAt": "2026-02-04T08:50:09.970Z",
+    "scriptCount": 2541,
+    "projectCount": 112
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -16790,6 +16790,20 @@
       "projectId": "vy-finance",
       "name": "VyFiCPPState",
       "purpose": "SPEND"
+    },
+    "805a98506510e76ebf30ff86f078802eb7198433200ca5cf2a6bf8f6": {
+      "projectId": "pondora",
+      "name": "Pondora Smart Account v1",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "1d15c0d1bcf1a0401846a1d8c1e21a141fe972cebaeac261ab327337": {
+      "projectId": "pondora",
+      "name": "Pondora Smart Account v2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -16826,7 +16840,8 @@
     "adao": {
       "label": "ADAO",
       "category": "COMMUNITY",
-      "link": "https://www.theadao.io"
+      "link": "https://www.theadao.io",
+      "subCategory": "UNKNOWN"
     },
     "adax-pro": {
       "label": "ADAX PRO",
@@ -16861,7 +16876,8 @@
     "astor-pool-tokens": {
       "label": "Astor Pool Tokens",
       "category": "COMMUNITY",
-      "link": "https://astorpool.net"
+      "link": "https://astorpool.net",
+      "subCategory": "UNKNOWN"
     },
     "axo": {
       "label": "Axo",
@@ -16884,7 +16900,8 @@
     "cardania": {
       "label": "Cardania",
       "category": "GAMING",
-      "link": "https://cardania.com"
+      "link": "https://cardania.com",
+      "subCategory": "UNKNOWN"
     },
     "cardano-art": {
       "label": "Cardano Art",
@@ -16979,7 +16996,8 @@
     "cypher-monks": {
       "label": "CypherMonks",
       "category": "COMMUNITY",
-      "link": "https://cyphermonks.com"
+      "link": "https://cyphermonks.com",
+      "subCategory": "UNKNOWN"
     },
     "danogo-bond": {
       "label": "Danogo Bond",
@@ -17014,12 +17032,14 @@
     "djed-stable-coin": {
       "label": "Djed StableCoin",
       "category": "STABLECOIN",
-      "link": "https://djed.xyz"
+      "link": "https://djed.xyz",
+      "subCategory": "UNKNOWN"
     },
     "drip-dropz": {
       "label": "DripDropz",
       "category": "TOKEN_DISTRIBUTION",
-      "link": "https://dripdropz.io"
+      "link": "https://dripdropz.io",
+      "subCategory": "UNKNOWN"
     },
     "dropspot": {
       "label": "Dropspot",
@@ -17030,7 +17050,8 @@
     "encoins": {
       "label": "ENCOINS",
       "category": "DEFI",
-      "link": "https://encoins.io"
+      "link": "https://encoins.io",
+      "subCategory": "UNKNOWN"
     },
     "epoch-art": {
       "label": "Epoch Art",
@@ -17083,8 +17104,7 @@
     "genius-yield": {
       "label": "GeniusYield",
       "category": "DEFI",
-      "subCategory": "CONCENTRATED_LIQUIDITY_DEX",
-      "link": "https://www.geniusyield.co"
+      "subCategory": "AMM_DEX"
     },
     "goat-tribe": {
       "label": "GOAT Tribe",
@@ -17101,7 +17121,8 @@
     "hydra": {
       "label": "Hydra",
       "category": "LAYER_2",
-      "link": "https://hydra.family"
+      "link": "https://hydra.family",
+      "subCategory": "UNKNOWN"
     },
     "iagon": {
       "label": "Iagon",
@@ -17166,12 +17187,14 @@
     "lobster-challenge": {
       "label": "Lobster Challenge",
       "category": "COMMUNITY",
-      "link": "https://github.com/input-output-hk/lobster-challenge"
+      "link": "https://github.com/input-output-hk/lobster-challenge",
+      "subCategory": "UNKNOWN"
     },
     "mad-dog-car-club": {
       "label": "Mad Dog Car Club",
       "category": "GAMING",
-      "link": "http://maddogcarclub.io"
+      "link": "http://maddogcarclub.io",
+      "subCategory": "UNKNOWN"
     },
     "martify-labs": {
       "label": "Martify Labs",
@@ -17206,19 +17229,18 @@
     "milkomeda-c1": {
       "label": "Milkomeda C1",
       "category": "BLOCKCHAIN",
-      "link": "https://www.milkomeda.com"
+      "link": "https://www.milkomeda.com",
+      "subCategory": "UNKNOWN"
     },
     "minswap": {
       "label": "Minswap",
       "category": "DEFI",
-      "subCategory": "AMM_DEX",
-      "link": "https://minswap.org"
+      "subCategory": "AMM_DEX"
     },
     "muesli-swap": {
       "label": "MuesliSwap",
       "category": "DEFI",
-      "subCategory": "HYBRID_DEX",
-      "link": "https://muesliswap.com"
+      "subCategory": "AMM_DEX"
     },
     "mutant-nfts": {
       "label": "MutantNFTs",
@@ -17313,12 +17335,14 @@
     "singularity-net": {
       "label": "SingularityNET",
       "category": "MARKETPLACE",
-      "link": "https://singularitynet.io"
+      "link": "https://singularitynet.io",
+      "subCategory": "UNKNOWN"
     },
     "smart-claimz": {
       "label": "SmartClaimz",
       "category": "TOKEN_DISTRIBUTION",
-      "link": "https://smartclaimz.io"
+      "link": "https://smartclaimz.io",
+      "subCategory": "UNKNOWN"
     },
     "space-budz": {
       "label": "SpaceBudz",
@@ -17335,8 +17359,7 @@
     "splash": {
       "label": "Splash",
       "category": "DEFI",
-      "subCategory": "AMM_DEX",
-      "link": "https://www.splash.trade"
+      "subCategory": "AMM_DEX"
     },
     "strike-finance": {
       "label": "Strike Finance",
@@ -17347,13 +17370,13 @@
     "summon-platform": {
       "label": "Summon Platform",
       "category": "COMMUNITY",
-      "link": "https://summonplatform.io"
+      "link": "https://summonplatform.io",
+      "subCategory": "UNKNOWN"
     },
     "sundae-swap": {
       "label": "SundaeSwap",
       "category": "DEFI",
-      "subCategory": "AMM_DEX",
-      "link": "https://www.sundaeswap.finance"
+      "subCategory": "AMM_DEX"
     },
     "teddy-swap": {
       "label": "TeddySwap",
@@ -17370,7 +17393,8 @@
     "token-riot": {
       "label": "Token Riot",
       "category": "MARKETPLACE",
-      "link": "https://tokenriot.io"
+      "link": "https://tokenriot.io",
+      "subCategory": "UNKNOWN"
     },
     "tokhun": {
       "label": "Tokhun",
@@ -17381,13 +17405,13 @@
     "usdm": {
       "label": "$USDM",
       "category": "STABLECOIN",
-      "link": "https://www.mehen.io"
+      "link": "https://www.mehen.io",
+      "subCategory": "UNKNOWN"
     },
     "vy-finance": {
       "label": "VyFinance",
       "category": "DEFI",
-      "subCategory": "STAKING",
-      "link": "https://vyfi.io"
+      "subCategory": "AMM_DEX"
     },
     "wanchain": {
       "label": "Wanchain",
@@ -17410,13 +17434,13 @@
     "wingriders": {
       "label": "Wingriders",
       "category": "DEFI",
-      "subCategory": "AMM_DEX",
-      "link": "https://www.wingriders.com"
+      "subCategory": "AMM_DEX"
     },
     "world-mobile-token": {
       "label": "World Mobile Token",
       "category": "MOBILE_NETWORK",
-      "link": "https://worldmobiletoken.com"
+      "link": "https://worldmobiletoken.com",
+      "subCategory": "UNKNOWN"
     },
     "world-of-pirates": {
       "label": "World of Pirates",
@@ -17434,6 +17458,17 @@
       "label": "SingularityNET",
       "category": "MARKETPLACE",
       "link": "https://singularitynet.io"
+    },
+    "pondora": {
+      "label": "Pondora",
+      "category": "DEFI",
+      "subCategory": "SMART_WALLET",
+      "link": "https://pondora.org/"
+    },
+    "spectrum": {
+      "label": "Spectrum",
+      "category": "DEFI",
+      "subCategory": "AMM_DEX"
     }
   }
 }
