@@ -1,0 +1,28 @@
+{
+  "projectName": "Pondora",
+  "category": "DEFI",
+  "subCategory": "SMART_WALLET",
+  "description": {
+    "short": "The Cardano Smart Liquid Account"
+  },
+  "link": {
+    "website": "https://pondora.org/",
+    "x": "https://x.com/pondora_org"
+  },
+  "scripts": [
+    {
+      "name": "Pondora Smart Account v1",
+      "scriptHash": "805a98506510e76ebf30ff86f078802eb7198433200ca5cf2a6bf8f6",
+      "purpose": "SPEND"
+    },
+    {
+      "name": "Pondora Smart Account v2",
+      "scriptHash": "1d15c0d1bcf1a0401846a1d8c1e21a141fe972cebaeac261ab327337",
+      "purpose": "SPEND"
+    }
+  ],
+  "branding": {
+    "color": "#000000",
+    "bgColor": "#85d001"
+  }
+}
