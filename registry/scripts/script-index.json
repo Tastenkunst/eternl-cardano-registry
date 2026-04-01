@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-01T11:41:29.475Z",
-    "scriptCount": 2565,
-    "projectCount": 112
+    "generatedAt": "2026-04-01T11:46:25.105Z",
+    "scriptCount": 2567,
+    "projectCount": 113
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -16972,6 +16972,20 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    "bd2adb685621e224aae7571cb6bd8f0beb0fdd31875eb3a27feee6c0": {
+      "projectId": "masumi",
+      "name": "Masumi Payment Contract",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9": {
+      "projectId": "masumi",
+      "name": "Masumi Agent Registry",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17636,6 +17650,11 @@
       "label": "Dano Finance",
       "category": "DEFI",
       "link": "https://danogo.io"
+    },
+    "masumi": {
+      "label": "Masumi",
+      "category": "GENERIC",
+      "link": "https://masumi.network"
     }
   }
 }

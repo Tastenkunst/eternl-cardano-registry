@@ -36,6 +36,7 @@
     "category": {
       "type": "string",
       "description": "Main category",
+      "$comment": "Pending categories: AI_AGENTS (currently mapped to GENERIC until enough entries justify it, see Masumi Network)",
       "enum": [
         "DEFI",
         "MARKETPLACE",

@@ -1,0 +1,28 @@
+{
+  "label": "Masumi",
+  "caption": "Decentralized AI agent protocol on Cardano",
+  "summary": "Masumi is a decentralized protocol empowering AI agents to collaborate seamlessly and monetize their services efficiently.",
+  "description": "Masumi is a decentralized protocol empowering AI agents to collaborate seamlessly and monetize their services efficiently, built on Cardano.",
+  "category": "GENERIC",
+  "link": {
+    "x": "https://x.com/MasumiNetwork",
+    "website": "https://masumi.network",
+    "github": "https://github.com/masumi-network"
+  },
+  "scripts": [
+    {
+      "name": "Masumi Payment Contract",
+      "scriptHash": "bd2adb685621e224aae7571cb6bd8f0beb0fdd31875eb3a27feee6c0",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Masumi Agent Registry",
+      "scriptHash": "ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    }
+  ]
+}
