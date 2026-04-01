@@ -17,6 +17,43 @@
     "reddit": "https://www.reddit.com/r/indigoprotocol/",
     "website": "https://indigoprotocol.io"
   },
+  "scripts": [
+    {
+      "name": "CDP",
+      "scriptHash": "0805d8541db33f4841585fed4c3a7e87e2ff7018243038f06ceb660c",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Stability Pool",
+      "scriptHash": "88e0299018563dd10c4860d9f34eda56fdb77f302da0e3980620535c",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "CDP Creator",
+      "scriptHash": "0910f79461a71f74782dcd450f22b0c2cac31ab036b66c9219355d99",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Treasury",
+      "scriptHash": "3bd5f8ba0100f39952472619abfddb52d941a5347b88635e874a7b37",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Redemption Order Book",
+      "scriptHash": "519e4d36b834dcf62dacb8c0c978787435cf5981b59f3dc39c55a7b7",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    }
+  ],
   "scriptMappings": {
     "names": {
       "Stabilitypool": "Stability pool",

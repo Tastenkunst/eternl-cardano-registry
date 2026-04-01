@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-01T11:36:24.268Z",
-    "scriptCount": 2560,
+    "generatedAt": "2026-04-01T11:41:29.475Z",
+    "scriptCount": 2565,
     "projectCount": 112
   },
   "scripts": {
@@ -16937,6 +16937,41 @@
       "purpose": "MINT/SPEND/WITHDRAW",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "0805d8541db33f4841585fed4c3a7e87e2ff7018243038f06ceb660c": {
+      "projectId": "indigo-protocol",
+      "name": "CDP",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "88e0299018563dd10c4860d9f34eda56fdb77f302da0e3980620535c": {
+      "projectId": "indigo-protocol",
+      "name": "Stability Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "0910f79461a71f74782dcd450f22b0c2cac31ab036b66c9219355d99": {
+      "projectId": "indigo-protocol",
+      "name": "CDP Creator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "3bd5f8ba0100f39952472619abfddb52d941a5347b88635e874a7b37": {
+      "projectId": "indigo-protocol",
+      "name": "Treasury",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "519e4d36b834dcf62dacb8c0c978787435cf5981b59f3dc39c55a7b7": {
+      "projectId": "indigo-protocol",
+      "name": "Redemption Order Book",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   },
   "projects": {
