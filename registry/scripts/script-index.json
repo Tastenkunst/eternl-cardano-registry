@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-02-04T08:50:09.970Z",
-    "scriptCount": 2541,
-    "projectCount": 112
+    "generatedAt": "2026-04-01T08:54:39.470Z",
+    "scriptCount": 2544,
+    "projectCount": 113
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -16804,6 +16804,27 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "d8b69fc53637bcfadbc4469083f706bc293f4d9d2296646c5ca167bb": {
+      "projectId": "danogo",
+      "name": "Concentrated Liquidity Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "fa991bc2f9c4206e72d713bc3487a72e7901057cabb8d364bebeef8f": {
+      "projectId": "danogo",
+      "name": "CLMM Protocol Config",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "203cf07b27c8a1de07cc4d1f6927298be436a73526418edb97cbc9a5": {
+      "projectId": "danogo",
+      "name": "CLMM Ref Script Holder",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17469,6 +17490,12 @@
       "label": "Spectrum",
       "category": "DEFI",
       "subCategory": "AMM_DEX"
+    },
+    "danogo": {
+      "label": "Danogo",
+      "category": "DEFI",
+      "subCategory": "CONCENTRATED_LIQUIDITY_DEX",
+      "link": "https://app.danogo.io"
     }
   }
 }

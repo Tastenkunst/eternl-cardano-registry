@@ -1,0 +1,36 @@
+{
+  "label": "Danogo",
+  "caption": "Concentrated Liquidity DEX on Cardano",
+  "summary": "Danogo CLMM is a concentrated liquidity market maker (Uniswap V3-style) on Cardano, enabling capital-efficient swaps with customizable price ranges.",
+  "description": "Danogo CLMM is a concentrated liquidity market maker on Cardano. Users provide liquidity within custom price ranges for higher capital efficiency. Swaps directly modify pool state (no batcher). Supports ADA pairs and token-to-token pairs.",
+  "category": "DEFI",
+  "subCategory": "CONCENTRATED_LIQUIDITY_DEX",
+  "link": {
+    "x": "https://x.com/danogo_2023",
+    "website": "https://app.danogo.io",
+    "github": "https://github.com/danogo-finance"
+  },
+  "scripts": [
+    {
+      "name": "Concentrated Liquidity Pool",
+      "scriptHash": "d8b69fc53637bcfadbc4469083f706bc293f4d9d2296646c5ca167bb",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Protocol Config",
+      "scriptHash": "fa991bc2f9c4206e72d713bc3487a72e7901057cabb8d364bebeef8f",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Ref Script Holder",
+      "scriptHash": "203cf07b27c8a1de07cc4d1f6927298be436a73526418edb97cbc9a5",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    }
+  ]
+}
