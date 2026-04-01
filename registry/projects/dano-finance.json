@@ -1,0 +1,175 @@
+{
+  "label": "Dano Finance",
+  "caption": "DeFi platform for lending, borrowing, and trading",
+  "summary": "Dano Finance is a DeFi platform for lending, borrowing, and trading — all in one.",
+  "description": "Dano Finance is a DeFi platform on Cardano offering concentrated liquidity swaps, bond trading, leverage and flexible lending, fixed-rate lending, staking, and BTC Grow products.",
+  "category": "DEFI",
+  "link": {
+    "x": "https://x.com/danogo_2023",
+    "website": "https://danogo.io",
+    "github": "https://github.com/dano-finance"
+  },
+  "scripts": [
+    {
+      "name": "Bond Swap Validator",
+      "scriptHash": "537071da0b93b2c126ffeb754e9147f816d6da1ef13e72aba4d22523",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Bond Swap Validator",
+      "scriptHash": "c72a1aa3e4568cbe681734582d660383b2cabf3f27289643021e89c6",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "OptimBond Validator",
+      "scriptHash": "1d2390bab44f6267c0145456dc2f5f8ea2586fcb0aadac5525d9a406",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Bond Validator",
+      "scriptHash": "6c7831efc56f019518ff9a2bad54848c7ee689b99dbca042b251a096",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Borrow Validator",
+      "scriptHash": "e99bdbaa35c8adb221ce6feafcab06cd33575f7518ba5f970c7eb702",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Borrow Validator",
+      "scriptHash": "b49635995d909a262fe030bb92886257a24e8b96eab5fa03ef9ff517",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Concentrated Pool Contract",
+      "scriptHash": "d8b69fc53637bcfadbc4469083f706bc293f4d9d2296646c5ca167bb",
+      "purpose": "SPEND/MINT/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Protocol Config",
+      "scriptHash": "fa991bc2f9c4206e72d713bc3487a72e7901057cabb8d364bebeef8f",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Ref Script Holder",
+      "scriptHash": "203cf07b27c8a1de07cc4d1f6927298be436a73526418edb97cbc9a5",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Oracle Contract",
+      "scriptHash": "012a6bd4ae76261c1d3b5067caa4010f781f5c1c64ce2779bba2f90a",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Oracle Contract v2",
+      "scriptHash": "f2a240156e3e051ccdc19642c793f807b3bb8b3fb414e1160dd4f40f",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Leverage Loan Contract",
+      "scriptHash": "c6ffee02caa95e0a25b55387f17695b0e365ade57422b249d263fc4d",
+      "purpose": "SPEND/MINT/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Leverage Pool Contract",
+      "scriptHash": "73f29518da0013a671458d52624a4828c5b5bedaff8a950b0063b1cf",
+      "purpose": "SPEND/MINT/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Leverage Pool Param Contract",
+      "scriptHash": "fe16cfefe72d4c363e49abc93e91976c4933849b8fc155e978861561",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Flexible Loan Contract",
+      "scriptHash": "aca8e306eda3eb6c25a838bebac37d929c216aab13c8d463fca5a08d",
+      "purpose": "SPEND/MINT/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Flexible Pool Param Contract",
+      "scriptHash": "814de8a99452972a9fa9fe2c0f59f49697f208005c001ecac1ddfd57",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Flexible Pool Contract",
+      "scriptHash": "94dca24a1f1fcc2ff51cd90f32f4fe9e786d861a2dbf7d27598d26e8",
+      "purpose": "SPEND/MINT/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Staking Contract",
+      "scriptHash": "9759bfd89ffa91652064f3a2ef66dcc5c52ca85b55e938ad29198f72",
+      "purpose": "SPEND/MINT/WITHDRAW/PUBLISH",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "BTC Grow Bridge Asset",
+      "scriptHash": "534de3c0c26a8db1fdfc34b4efa5039879c4b4b09e6e3ae92881f22f",
+      "purpose": "SPEND/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "BTC Grow Babel Fee",
+      "scriptHash": "22e212c5278964fba8f90cb8240c1c2926fe4a24758eabc3258b8c9c",
+      "purpose": "SPEND/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "BTC Grow Metadata Validation",
+      "scriptHash": "511d3a02d3a7850dec3eb97caa7e0d491138284af9303df5d0ddfc2b",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Fixed Pool Contract",
+      "scriptHash": "8786a2761c8a5b43af6b936fd852080820a9051ae9e707a7f1d6492a",
+      "purpose": "MINT/SPEND/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "Fixed Loan Contract",
+      "scriptHash": "a2a39081978098ade606768c8b688d1ecc57910e8708511b48da82d2",
+      "purpose": "MINT/SPEND/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    }
+  ]
+}
