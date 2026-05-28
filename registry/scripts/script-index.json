@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-05-27T12:58:45.290Z",
-    "scriptCount": 2556,
-    "projectCount": 112
+    "generatedAt": "2026-05-28T13:05:04.023Z",
+    "scriptCount": 2567,
+    "projectCount": 113
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -3748,6 +3748,62 @@
       "name": "Script j9Iwij",
       "purpose": "SPEND",
       "plutusVersion": 1
+    },
+    "25da22dfd99bf874e59d74c304a1d28e921310327c3e4d6960123f2e": {
+      "projectId": "jpgstore",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 1
+    },
+    "beb881c47075b2910ae7e13fb268908f70878d06638ff86a5caaa16c": {
+      "projectId": "jpgstore",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 1
+    },
+    "4a59ebd93ea53d1bbf7f82232c7b012700a0cf4bb78d879dabb1a20a": {
+      "projectId": "jpgstore",
+      "name": "BuySell",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 1
+    },
+    "a55f409501bf65805bb0dc76f6f9ae90b61e19ed870bc0025681360881728e7ed4cf324e1323135e7e6d931f01e30792d9cdf17129cb806d": {
+      "projectId": "jpgstore",
+      "name": "Offers",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 1
+    },
+    "9068a7a3f008803edac87af1619860f2cdcde40c26987325ace138ad81728e7ed4cf324e1323135e7e6d931f01e30792d9cdf17129cb806d": {
+      "projectId": "jpgstore",
+      "name": "OffersV2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "9068a7a3f008803edac87af1619860f2cdcde40c26987325ace138ad2c967f4bd28944b06462e13c5e3f5d5fa6e03f8567569438cd833e6d": {
+      "projectId": "jpgstore",
+      "name": "OffersV2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "9068a7a3f008803edac87af1619860f2cdcde40c26987325ace138ad0c0f89fe346ad3ab50c9855794f52d7ee91296b8d2968e7b68af4be3": {
+      "projectId": "jpgstore",
+      "name": "OffersV2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "c727443d77df6cff95dca383994f4c3024d03ff56b02ecc22b0f3f652c967f4bd28944b06462e13c5e3f5d5fa6e03f8567569438cd833e6d": {
+      "projectId": "jpgstore",
+      "name": "AskV1",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     },
     "40f8745708ac503839d7fb4f9095c1ea6b1de0036ab89a598b09f29b": {
       "projectId": "kalyx",
@@ -13613,6 +13669,27 @@
       "type": "PLUTUS",
       "plutusVersion": 3
     },
+    "a55f409501bf65805bb0dc76f6f9ae90b61e19ed870bc00256813608": {
+      "projectId": "jpgstore",
+      "name": "Offers",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 1
+    },
+    "9068a7a3f008803edac87af1619860f2cdcde40c26987325ace138ad": {
+      "projectId": "jpgstore",
+      "name": "OffersV2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "c727443d77df6cff95dca383994f4c3024d03ff56b02ecc22b0f3f65": {
+      "projectId": "jpgstore",
+      "name": "AskV1",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
     "0042bfae9b1a2e2bfce3b97320e0aa9c4e5c4425ed12f82319cb9ce6": {
       "projectId": "kreate",
       "name": "Offer/Reservation",
@@ -17246,6 +17323,12 @@
       "category": "MARKETPLACE",
       "subCategory": "NFT",
       "link": "https://www.jamonbread.com"
+    },
+    "jpgstore": {
+      "label": "jpg.store",
+      "category": "MARKETPLACE",
+      "subCategory": "NFT",
+      "link": "https://www.jpg.store"
     },
     "kalyx": {
       "label": "Kalyx",
