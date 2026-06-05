@@ -13,6 +13,12 @@
     "x": "https://x.com/LenfiOfficial",
     "website": "https://lenfi.io"
   },
+  "scripts": [
+    { "name": "Order Borrow (V2)", "scriptHash": "70512aa152ef4ccff4a5f6f01531613edc448af259ddf6727d3d24ea", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "Order Deposit (V2)", "scriptHash": "a07bbb17845168ae5a2680c7e7bafdd1a9e1f8cbe07754417b76dac4", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "Order Repay (V2)", "scriptHash": "b25c65c900e52e555ca15be7ab3c5bc0cb52130c172d715e3bcf892b", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "Order Withdraw (V2)", "scriptHash": "f92b3c8b183104bbff4579784550034ff8d75e1c633568f28b223f50", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ],
   "scriptMappings": {
     "names": {
       "OldAADAtokenburn": "Old AADA token burn",

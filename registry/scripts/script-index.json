@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:00:40.366Z",
-    "scriptCount": 2571,
+    "generatedAt": "2026-06-05T09:07:53.979Z",
+    "scriptCount": 2575,
     "projectCount": 114
   },
   "scripts": {
@@ -17014,6 +17014,34 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "70512aa152ef4ccff4a5f6f01531613edc448af259ddf6727d3d24ea": {
+      "projectId": "lenfi",
+      "name": "Order Borrow (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "a07bbb17845168ae5a2680c7e7bafdd1a9e1f8cbe07754417b76dac4": {
+      "projectId": "lenfi",
+      "name": "Order Deposit (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "b25c65c900e52e555ca15be7ab3c5bc0cb52130c172d715e3bcf892b": {
+      "projectId": "lenfi",
+      "name": "Order Repay (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "f92b3c8b183104bbff4579784550034ff8d75e1c633568f28b223f50": {
+      "projectId": "lenfi",
+      "name": "Order Withdraw (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   },
   "projects": {
