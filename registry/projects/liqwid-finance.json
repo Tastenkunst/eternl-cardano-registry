@@ -9,6 +9,28 @@
     "x": "https://x.com/liqwidfinance",
     "website": "https://www.liqwid.finance"
   },
+  "scripts": [
+    { "name": "DJED Loan V2", "scriptHash": "4cbdb859b85e22319045d82cde85efb14779b4ee6a3ba5cfacf12eca", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "SNEK Action", "scriptHash": "a28c4a421a395cf3096152f35bfd5c2a5b6492dce4456ebdd34a84e5", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "SNEK Loan V2", "scriptHash": "49d6927423d3a1d7268a2edf6d47ca84c7d2587540174428350edc6f", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "USDA Action", "scriptHash": "536fdafec178c3f649997ebf961065ffd1aef69f5935dde4e59446d9", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "USDA Loan V2", "scriptHash": "dd4657091fdb7e8fa8680b5a87ebb914c95056ba0523913a7cd2b081", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "BTC Action", "scriptHash": "7a254b687a2605b3f725a42d5ab74f49aac26ce677bac2d80e995cee", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "BTC Loan V2", "scriptHash": "3c48f941040c4fc638a89c5a89d331700cd6d620fc174c9b03e8301d", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "ETH Action", "scriptHash": "d72eaa2420d1de0dddde811260e4683f70df7ec6bfd6c51eea52deb2", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "ETH Loan V2", "scriptHash": "83b7535f0b27152f76f33756c199f3370ed638149272a4b1f1006bf2", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "IAG Action", "scriptHash": "67e69cc3798186e3c7a8dd7cd1dc496b586e27a5bf93f46e852e95a9", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "IAG Loan V2", "scriptHash": "9b9993802ac423dc799ede2b988d9a903250200a22f66b9e5c337f87", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "COPI Action", "scriptHash": "811d734044ce469d6a1aa94a0b4c6babd41f50b4ae220efd4fc0378c", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "COPI Loan V2", "scriptHash": "cf5a23e5e3cd7db56440b421bc80a6c88f04257e5d589a159501c980", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "EURC Action", "scriptHash": "13b9b36ca3853f83d3eccdb9974371d0df6e7822e66ef6f5a1ac23b5", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "EURC Loan V2", "scriptHash": "f19f8ff41e3db4ab90e44599b3145906cc7af9fb2409c72519aa40bf", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "PYUSD Action", "scriptHash": "4937a60b5f1065fdab6294ff6ad67664a1280a81897d2427a8b5ea0c", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "PYUSD Loan V2", "scriptHash": "c9ad41354572d5938536b49fa8b35ca703ae528281006d4e7c750e15", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "LQ Action", "scriptHash": "4e893c9375f959e5c5051aa70c18583510bf64e3464d5838005403f3", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "NIGHT Action", "scriptHash": "262535d0a325905f387222df30a0f2462720f8cc1f5574e6797e55bd", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "POL Action", "scriptHash": "b9c9cb3d2e1b1479819e88794828804245c47988fef6aa7ae1da4806", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ],
   "scriptMappings": {
     "names": {
       "Adamarketsaction": "Ada markets action",

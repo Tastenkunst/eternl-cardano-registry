@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T12:29:32.550Z",
-    "scriptCount": 2596,
+    "generatedAt": "2026-06-05T12:51:34.269Z",
+    "scriptCount": 2616,
     "projectCount": 117
   },
   "scripts": {
@@ -17186,6 +17186,146 @@
     "27d46ecbec94b052d8f875cf3beafd0e8ca40e8ad069f677e0a128ea": {
       "projectId": "wayup",
       "name": "Offer",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "4cbdb859b85e22319045d82cde85efb14779b4ee6a3ba5cfacf12eca": {
+      "projectId": "liqwid-finance",
+      "name": "DJED Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "a28c4a421a395cf3096152f35bfd5c2a5b6492dce4456ebdd34a84e5": {
+      "projectId": "liqwid-finance",
+      "name": "SNEK Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "49d6927423d3a1d7268a2edf6d47ca84c7d2587540174428350edc6f": {
+      "projectId": "liqwid-finance",
+      "name": "SNEK Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "536fdafec178c3f649997ebf961065ffd1aef69f5935dde4e59446d9": {
+      "projectId": "liqwid-finance",
+      "name": "USDA Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "dd4657091fdb7e8fa8680b5a87ebb914c95056ba0523913a7cd2b081": {
+      "projectId": "liqwid-finance",
+      "name": "USDA Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "7a254b687a2605b3f725a42d5ab74f49aac26ce677bac2d80e995cee": {
+      "projectId": "liqwid-finance",
+      "name": "BTC Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "3c48f941040c4fc638a89c5a89d331700cd6d620fc174c9b03e8301d": {
+      "projectId": "liqwid-finance",
+      "name": "BTC Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "d72eaa2420d1de0dddde811260e4683f70df7ec6bfd6c51eea52deb2": {
+      "projectId": "liqwid-finance",
+      "name": "ETH Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "83b7535f0b27152f76f33756c199f3370ed638149272a4b1f1006bf2": {
+      "projectId": "liqwid-finance",
+      "name": "ETH Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "67e69cc3798186e3c7a8dd7cd1dc496b586e27a5bf93f46e852e95a9": {
+      "projectId": "liqwid-finance",
+      "name": "IAG Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "9b9993802ac423dc799ede2b988d9a903250200a22f66b9e5c337f87": {
+      "projectId": "liqwid-finance",
+      "name": "IAG Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "811d734044ce469d6a1aa94a0b4c6babd41f50b4ae220efd4fc0378c": {
+      "projectId": "liqwid-finance",
+      "name": "COPI Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "cf5a23e5e3cd7db56440b421bc80a6c88f04257e5d589a159501c980": {
+      "projectId": "liqwid-finance",
+      "name": "COPI Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "13b9b36ca3853f83d3eccdb9974371d0df6e7822e66ef6f5a1ac23b5": {
+      "projectId": "liqwid-finance",
+      "name": "EURC Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "f19f8ff41e3db4ab90e44599b3145906cc7af9fb2409c72519aa40bf": {
+      "projectId": "liqwid-finance",
+      "name": "EURC Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "4937a60b5f1065fdab6294ff6ad67664a1280a81897d2427a8b5ea0c": {
+      "projectId": "liqwid-finance",
+      "name": "PYUSD Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "c9ad41354572d5938536b49fa8b35ca703ae528281006d4e7c750e15": {
+      "projectId": "liqwid-finance",
+      "name": "PYUSD Loan V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "4e893c9375f959e5c5051aa70c18583510bf64e3464d5838005403f3": {
+      "projectId": "liqwid-finance",
+      "name": "LQ Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "262535d0a325905f387222df30a0f2462720f8cc1f5574e6797e55bd": {
+      "projectId": "liqwid-finance",
+      "name": "NIGHT Action",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "b9c9cb3d2e1b1479819e88794828804245c47988fef6aa7ae1da4806": {
+      "projectId": "liqwid-finance",
+      "name": "POL Action",
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
