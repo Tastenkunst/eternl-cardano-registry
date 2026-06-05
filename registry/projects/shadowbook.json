@@ -1,0 +1,13 @@
+{
+  "label": "Shadowbook",
+  "caption": "HFT proprietary orderbook DEX on Cardano",
+  "category": "DEFI",
+  "subCategory": "ORDERBOOK_DEX",
+  "link": {
+    "website": "https://shadowbook.io",
+    "documentation": "https://docs.shadowbook.io"
+  },
+  "scripts": [
+    { "name": "Order", "scriptHash": "9e130eb0323f31df50bfbb731f35f5a795a630ef727b4ba272460b55", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 }
+  ]
+}

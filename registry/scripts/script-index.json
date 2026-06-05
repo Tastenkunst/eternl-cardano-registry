@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T11:47:47.664Z",
-    "scriptCount": 2591,
-    "projectCount": 114
+    "generatedAt": "2026-06-05T12:09:00.803Z",
+    "scriptCount": 2592,
+    "projectCount": 115
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -17154,6 +17154,13 @@
       "purpose": "MINT",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "9e130eb0323f31df50bfbb731f35f5a795a630ef727b4ba272460b55": {
+      "projectId": "shadowbook",
+      "name": "Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17832,6 +17839,12 @@
       "category": "DEFI",
       "subCategory": "WRAPPED_ASSETS",
       "link": "https://usdcx.iog.io"
+    },
+    "shadowbook": {
+      "label": "Shadowbook",
+      "category": "DEFI",
+      "subCategory": "ORDERBOOK_DEX",
+      "link": "https://shadowbook.io"
     }
   }
 }
