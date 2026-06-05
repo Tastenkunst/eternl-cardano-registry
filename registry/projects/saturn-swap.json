@@ -1,0 +1,13 @@
+{
+  "label": "Saturn Swap",
+  "caption": "Fast no-batcher orderbook DEX on Cardano",
+  "category": "DEFI",
+  "subCategory": "ORDERBOOK_DEX",
+  "link": {
+    "website": "https://saturnswap.io",
+    "documentation": "https://docs.saturnswap.io"
+  },
+  "scripts": [
+    { "name": "Order", "scriptHash": "1af84a9e697e1e7b042a0a06f061e88182feb9e9ada950b36a916bd5", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ]
+}

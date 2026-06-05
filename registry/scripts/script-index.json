@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T12:09:00.803Z",
-    "scriptCount": 2592,
-    "projectCount": 115
+    "generatedAt": "2026-06-05T12:18:01.304Z",
+    "scriptCount": 2593,
+    "projectCount": 116
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -17161,6 +17161,13 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "1af84a9e697e1e7b042a0a06f061e88182feb9e9ada950b36a916bd5": {
+      "projectId": "saturn-swap",
+      "name": "Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   },
   "projects": {
@@ -17845,6 +17852,12 @@
       "category": "DEFI",
       "subCategory": "ORDERBOOK_DEX",
       "link": "https://shadowbook.io"
+    },
+    "saturn-swap": {
+      "label": "Saturn Swap",
+      "category": "DEFI",
+      "subCategory": "ORDERBOOK_DEX",
+      "link": "https://saturnswap.io"
     }
   }
 }
