@@ -1,0 +1,13 @@
+{
+  "label": "Midnight",
+  "caption": "Data-protection blockchain; Cardano-side NIGHT token contracts",
+  "category": "BLOCKCHAIN",
+  "link": {
+    "website": "https://midnight.network",
+    "github": "https://github.com/midnightntwrk"
+  },
+  "scripts": [
+    { "name": "NIGHT Airdrop Escrow", "scriptHash": "5986bfcc0cbfc60dec8df87715cc95d03817aac386b0e9d33da03b39", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Cnight Generates Dust", "scriptHash": "73e4aea31b5b51d9b0ca386196fc6a4c422f74c5aea011e4b8bdf4e5", "purpose": "SPEND/MINT", "type": "PLUTUS", "plutusVersion": 3 }
+  ]
+}

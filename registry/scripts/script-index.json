@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T12:18:01.304Z",
-    "scriptCount": 2593,
-    "projectCount": 116
+    "generatedAt": "2026-06-05T12:23:52.526Z",
+    "scriptCount": 2595,
+    "projectCount": 117
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -17168,6 +17168,20 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    "5986bfcc0cbfc60dec8df87715cc95d03817aac386b0e9d33da03b39": {
+      "projectId": "midnight",
+      "name": "NIGHT Airdrop Escrow",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "73e4aea31b5b51d9b0ca386196fc6a4c422f74c5aea011e4b8bdf4e5": {
+      "projectId": "midnight",
+      "name": "Cnight Generates Dust",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17858,6 +17872,11 @@
       "category": "DEFI",
       "subCategory": "ORDERBOOK_DEX",
       "link": "https://saturnswap.io"
+    },
+    "midnight": {
+      "label": "Midnight",
+      "category": "BLOCKCHAIN",
+      "link": "https://midnight.network"
     }
   }
 }
