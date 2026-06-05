@@ -11,7 +11,8 @@
     "website": "https://www.wayup.io/"
   },
   "scripts": [
-    { "name": "Marketplace", "scriptHash": "a76f0fb801a29f591e9871576508d85b0b5f3c38774f65032f58fdad", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+    { "name": "Marketplace", "scriptHash": "a76f0fb801a29f591e9871576508d85b0b5f3c38774f65032f58fdad", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "Offer", "scriptHash": "27d46ecbec94b052d8f875cf3beafd0e8ca40e8ad069f677e0a128ea", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
   ],
   "scriptMappings": {
     "names": {

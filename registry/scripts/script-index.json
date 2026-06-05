@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T12:23:52.526Z",
-    "scriptCount": 2595,
+    "generatedAt": "2026-06-05T12:29:32.550Z",
+    "scriptCount": 2596,
     "projectCount": 117
   },
   "scripts": {
@@ -17182,6 +17182,13 @@
       "purpose": "SPEND/MINT",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "27d46ecbec94b052d8f875cf3beafd0e8ca40e8ad069f677e0a128ea": {
+      "projectId": "wayup",
+      "name": "Offer",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   },
   "projects": {
