@@ -4,8 +4,14 @@
   "summary": "",
   "description": "",
   "category": "DEFI",
-  "subCategory": "AMM_DEX",
-  "link": {},
+  "subCategory": "ORDERBOOK_DEX",
+  "link": {
+    "x": "https://x.com/geniusyieldo",
+    "website": "https://www.geniusyield.co"
+  },
+  "scripts": [
+    { "name": "DEX V2 Order", "scriptHash": "0a32c7d1a45fa861c8a68812919ba3ba187f2da6d84ff684385b2064", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 }
+  ],
   "scriptMappings": {
     "names": {
       "GeniusYieldOrderBook": "GeniusYieldOrderBook"

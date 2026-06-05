@@ -18,7 +18,10 @@
     "medium": "https://minswap-labs.medium.com",
     "forum": "https://forum.minswap.org"
   },
-  "scriptMappings": {
+  "scripts": [
+    { "name": "MIN Staking V2", "scriptHash": "6563d77a4da81a91831c68d192a3eeefb0340f1341518aae7ce2d48e", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ],
+"scriptMappings": {
     "names": {
       "MinswapCPPState": "MinswapCPPState",
       "MinswapDJEDUSDCStableState": "MinswapDJEDUSDCStableState",

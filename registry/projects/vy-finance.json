@@ -9,8 +9,12 @@
     "x": "https://x.com/VyFiOfficial",
     "youtube": "https://www.youtube.com/@VyFinance",
     "telegram": "https://t.me/vyfinance",
-    "discord": "https://discord.com/invite/segPHFjk5T"
+    "discord": "https://discord.com/invite/segPHFjk5T",
+    "website": "https://www.vyfi.io"
   },
+  "scripts": [
+    { "name": "Vault Stake (V3)", "scriptHash": "f629c0add9391bf7940cf35f3ac8705afb1d698b0c8118fb1a4e1b5b", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 }
+  ],
   "scriptMappings": {
     "names": {
       "VyFiCPPState": "VyFiCPPState"

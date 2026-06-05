@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:48:08.842Z",
-    "scriptCount": 2584,
+    "generatedAt": "2026-06-05T10:06:16.297Z",
+    "scriptCount": 2588,
     "projectCount": 114
   },
   "scripts": {
@@ -17105,6 +17105,34 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "0a32c7d1a45fa861c8a68812919ba3ba187f2da6d84ff684385b2064": {
+      "projectId": "genius-yield",
+      "name": "DEX V2 Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "6563d77a4da81a91831c68d192a3eeefb0340f1341518aae7ce2d48e": {
+      "projectId": "minswap",
+      "name": "MIN Staking V2",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "d9143ac63473b17a215d1b7484dfb6ac6b4a0005beb0e26a6ca02c96": {
+      "projectId": "splash",
+      "name": "Instant Order (deployment 2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "f629c0add9391bf7940cf35f3ac8705afb1d698b0c8118fb1a4e1b5b": {
+      "projectId": "vy-finance",
+      "name": "Vault Stake (V3)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17399,7 +17427,8 @@
     "genius-yield": {
       "label": "GeniusYield",
       "category": "DEFI",
-      "subCategory": "AMM_DEX"
+      "subCategory": "ORDERBOOK_DEX",
+      "link": "https://www.geniusyield.co"
     },
     "goat-tribe": {
       "label": "GOAT Tribe",
@@ -17654,7 +17683,8 @@
     "splash": {
       "label": "Splash",
       "category": "DEFI",
-      "subCategory": "AMM_DEX"
+      "subCategory": "AMM_DEX",
+      "link": "https://www.splash.trade"
     },
     "strike-finance": {
       "label": "Strike Finance",
@@ -17706,7 +17736,8 @@
     "vy-finance": {
       "label": "VyFinance",
       "category": "DEFI",
-      "subCategory": "AMM_DEX"
+      "subCategory": "AMM_DEX",
+      "link": "https://www.vyfi.io"
     },
     "wanchain": {
       "label": "Wanchain",

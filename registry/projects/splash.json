@@ -5,7 +5,14 @@
   "description": "",
   "category": "DEFI",
   "subCategory": "AMM_DEX",
-  "link": {},
+  "link": {
+    "x": "https://x.com/splashprotocol",
+    "github": "https://github.com/splashprotocol",
+    "website": "https://www.splash.trade"
+  },
+  "scripts": [
+    { "name": "Instant Order (deployment 2)", "scriptHash": "d9143ac63473b17a215d1b7484dfb6ac6b4a0005beb0e26a6ca02c96", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ],
   "scriptMappings": {
     "names": {
       "SplashCPPBidirState": "SplashCPPBidirState",
