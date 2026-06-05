@@ -1,5 +1,9 @@
 {
   "label": "USDCx",
+  "branding": {
+    "color": "#ffffff",
+    "bgColor": "#040a2f"
+  },
   "caption": "Circle USDC bridge for Cardano",
   "summary": "xReserve-backed bridge bringing Circle USDC to Cardano, operated by IOG.",
   "description": "USDCx is Circle's xReserve-based bridge between Cardano and Ethereum. Cardano-side burns release native USDC from xReserve on Ethereum. Operated by IOG, with off-chain attester infrastructure by Anastasia Labs.",
