@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:32:15.633Z",
-    "scriptCount": 2582,
+    "generatedAt": "2026-06-05T09:43:34.749Z",
+    "scriptCount": 2583,
     "projectCount": 114
   },
   "scripts": {
@@ -17088,6 +17088,13 @@
     "8110c6ae9c92962f01ce98611656c05ea69aa5a709f4ea89c588bbdb": {
       "projectId": "indigo-protocol",
       "name": "Poll Shard (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "a76f0fb801a29f591e9871576508d85b0b5f3c38774f65032f58fdad": {
+      "projectId": "wayup",
+      "name": "Marketplace",
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
