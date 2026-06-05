@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:14:52.125Z",
-    "scriptCount": 2577,
+    "generatedAt": "2026-06-05T09:20:55.287Z",
+    "scriptCount": 2579,
     "projectCount": 114
   },
   "scripts": {
@@ -17056,6 +17056,20 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "905ab869961b094f1b8197278cfe15b45cbe49fa8f32c6b014f85a2d": {
+      "projectId": "spectrum-finance",
+      "name": "Swap Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "cb684a69e78907a9796b21fc150a758af5f2805e5ed5d5a8ce9f76f1": {
+      "projectId": "spectrum-finance",
+      "name": "Pool V3",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   },
   "projects": {

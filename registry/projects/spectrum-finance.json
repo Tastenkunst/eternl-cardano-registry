@@ -9,6 +9,10 @@
     "x": "https://x.com/SpectrumLabs_",
     "website": "https://spectrum.fi"
   },
+  "scripts": [
+    { "name": "Swap Order", "scriptHash": "905ab869961b094f1b8197278cfe15b45cbe49fa8f32c6b014f85a2d", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 },
+    { "name": "Pool V3", "scriptHash": "cb684a69e78907a9796b21fc150a758af5f2805e5ed5d5a8ce9f76f1", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 2 }
+  ],
   "scriptMappings": {
     "names": {
       "liquiditypool": "liquidity pool",
