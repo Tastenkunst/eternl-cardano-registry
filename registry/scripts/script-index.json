@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:43:34.749Z",
-    "scriptCount": 2583,
+    "generatedAt": "2026-06-05T09:48:08.842Z",
+    "scriptCount": 2584,
     "projectCount": 114
   },
   "scripts": {
@@ -17098,6 +17098,13 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    "ed97e0a1394724bb7cb94f20acf627abc253694c92b88bf8fb4b7f6f": {
+      "projectId": "cswap",
+      "name": "V3 Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {

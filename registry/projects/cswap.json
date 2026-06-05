@@ -13,6 +13,9 @@
     "medium": "https://medium.com/@cswapdex",
     "website": "https://www.cswap.fi"
   },
+  "scripts": [
+    { "name": "V3 Pool", "scriptHash": "ed97e0a1394724bb7cb94f20acf627abc253694c92b88bf8fb4b7f6f", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 }
+  ],
   "scriptMappings": {
     "names": {
       "OriginsStaking": "Origins Staking"
