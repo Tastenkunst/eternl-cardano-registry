@@ -170,6 +170,27 @@
       "purpose": "MINT/SPEND/WITHDRAW",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Config",
+      "scriptHash": "9a0054cf2ab678edcd7528d16a388e5b1cefa3af40d5b9634ab96de6",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Param Validator",
+      "scriptHash": "79a5116ee2ff13ffd53b2615568574fc804740a07bc2ff8930d2d6fb",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    {
+      "name": "CLMM Param Token",
+      "scriptHash": "bd23e2977937bb6054f625e5b566e28e294dcd8f7e8d0d33979ed90c",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   ]
 }

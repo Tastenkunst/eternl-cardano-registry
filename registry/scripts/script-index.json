@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T10:06:16.297Z",
-    "scriptCount": 2588,
+    "generatedAt": "2026-06-05T11:47:47.664Z",
+    "scriptCount": 2591,
     "projectCount": 114
   },
   "scripts": {
@@ -17131,6 +17131,27 @@
       "projectId": "vy-finance",
       "name": "Vault Stake (V3)",
       "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "9a0054cf2ab678edcd7528d16a388e5b1cefa3af40d5b9634ab96de6": {
+      "projectId": "dano-finance",
+      "name": "CLMM Config",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "79a5116ee2ff13ffd53b2615568574fc804740a07bc2ff8930d2d6fb": {
+      "projectId": "dano-finance",
+      "name": "CLMM Param Validator",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "bd23e2977937bb6054f625e5b566e28e294dcd8f7e8d0d33979ed90c": {
+      "projectId": "dano-finance",
+      "name": "CLMM Param Token",
+      "purpose": "MINT",
       "type": "PLUTUS",
       "plutusVersion": 3
     }
