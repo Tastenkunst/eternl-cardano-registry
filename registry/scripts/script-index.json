@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:20:55.287Z",
-    "scriptCount": 2579,
+    "generatedAt": "2026-06-05T09:32:15.633Z",
+    "scriptCount": 2582,
     "projectCount": 114
   },
   "scripts": {
@@ -17067,6 +17067,27 @@
     "cb684a69e78907a9796b21fc150a758af5f2805e5ed5d5a8ce9f76f1": {
       "projectId": "spectrum-finance",
       "name": "Pool V3",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "ea84d625650d066e1645e3e81d9c70a73f9ed837bd96dc49850ae744": {
+      "projectId": "indigo-protocol",
+      "name": "Version Registry",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "131f26cd99012663aa063d0ef86dc0ac039d1797d5e062768fb12e74": {
+      "projectId": "indigo-protocol",
+      "name": "Governance (V2)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "8110c6ae9c92962f01ce98611656c05ea69aa5a709f4ea89c588bbdb": {
+      "projectId": "indigo-protocol",
+      "name": "Poll Shard (V2)",
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2

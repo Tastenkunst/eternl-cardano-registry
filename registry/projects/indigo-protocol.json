@@ -52,6 +52,27 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    {
+      "name": "Version Registry",
+      "scriptHash": "ea84d625650d066e1645e3e81d9c70a73f9ed837bd96dc49850ae744",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Governance (V2)",
+      "scriptHash": "131f26cd99012663aa063d0ef86dc0ac039d1797d5e062768fb12e74",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    {
+      "name": "Poll Shard (V2)",
+      "scriptHash": "8110c6ae9c92962f01ce98611656c05ea69aa5a709f4ea89c588bbdb",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 2
     }
   ],
   "scriptMappings": {
