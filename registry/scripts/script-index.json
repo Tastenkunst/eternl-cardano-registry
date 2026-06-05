@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T09:07:53.979Z",
-    "scriptCount": 2575,
+    "generatedAt": "2026-06-05T09:14:52.125Z",
+    "scriptCount": 2577,
     "projectCount": 114
   },
   "scripts": {
@@ -17042,6 +17042,20 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    "ad353a777c817f4d9d6c4324930f5c6128400517ec9dae0461e034cd": {
+      "projectId": "fluid-tokens",
+      "name": "Pool (V3)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "dc9003272dbd7fc5d19ce4f0eb3a92bec2c4ffcbd58c8ce4493888bc": {
+      "projectId": "fluid-tokens",
+      "name": "Request (V3)",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
@@ -17310,7 +17324,7 @@
       "link": "https://flipr.io"
     },
     "fluid-tokens": {
-      "label": "Fluid Tokens",
+      "label": "FluidTokens",
       "category": "DEFI",
       "subCategory": "LENDING_BORROWING",
       "link": "https://fluidtokens.com"

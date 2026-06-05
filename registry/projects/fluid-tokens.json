@@ -1,5 +1,5 @@
 {
-  "label": "Fluid Tokens",
+  "label": "FluidTokens",
   "caption": "Permissionless Lending",
   "summary": "Revolutionizing Permissionless DeFi With EUTXO Chains",
   "description": "FluidTokens kicked off its journey on the Cardano blockchain as a DeFi platform, presenting a diverse range of services like lending, borrowing, staking, and an array of other inventive products including rental options, boosted stake features, and more.",
@@ -12,6 +12,10 @@
     "linkedin": "https://www.linkedin.com/company/fluidtokens",
     "website": "https://fluidtokens.com"
   },
+  "scripts": [
+    { "name": "Pool (V3)", "scriptHash": "ad353a777c817f4d9d6c4324930f5c6128400517ec9dae0461e034cd", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Request (V3)", "scriptHash": "dc9003272dbd7fc5d19ce4f0eb3a92bec2c4ffcbd58c8ce4493888bc", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 }
+  ],
   "scriptMappings": {
     "names": {
       "loanrequests": "loan requests",
