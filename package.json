@@ -1,6 +1,6 @@
 {
   "name": "eternl-cardano-registry",
-  "version": "2.1.0.49",
+  "version": "2.1.0.50",
   "description": "Unified registry for Cardano smart contract scripts, DApp metadata, and related data",
   "type": "module",
   "scripts": {
