@@ -15,10 +15,19 @@
  *   DBS_DATABASE_PASSWORD, DBS_DATABASE_PORT
  */
 
-import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
-import { join } from 'path';
-import pg from 'pg';
-import dotenv from 'dotenv';
+import dotenv                 from 'dotenv'
+
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  writeFileSync,
+}                             from 'fs'
+
+import { join }               from 'path'
+
+import pg                     from 'pg'
 
 // Load .env from project root
 dotenv.config();

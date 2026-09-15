@@ -3,10 +3,17 @@
  * Run with: npx tsx scripts/validate.ts
  */
 
-import Ajv from 'ajv';
-import addFormats from 'ajv-formats';
-import { readFileSync, readdirSync, existsSync } from 'fs';
-import { join, basename } from 'path';
+import Ajv                    from 'ajv'
+
+import addFormats             from 'ajv-formats'
+
+import {
+  existsSync,
+  readdirSync,
+  readFileSync,
+}                             from 'fs'
+
+import { join }               from 'path'
 
 // Paths
 const SCHEMAS_DIR = './schemas';
