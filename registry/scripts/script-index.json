@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-01T15:02:54.000Z",
-    "scriptCount": 2634,
-    "projectCount": 117
+    "generatedAt": "2026-10-01T16:03:33.883Z",
+    "scriptCount": 2646,
+    "projectCount": 118
   },
   "scripts": {
     "c0c671fba483641a71bb92d3a8b7c52c90bf1c01e2b83116ad7d4536": {
@@ -17455,6 +17455,89 @@
       "purpose": "WITHDRAW",
       "type": "PLUTUS",
       "plutusVersion": 3
+    },
+    "7b5d4f9cb7209596c776aafce45a15c9faba1e88bb11d96e16c96f01": {
+      "projectId": "real-fi",
+      "name": "Protocol Orchestrator",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "6f62eb156a99a618608c0b8161f636d3f22b347cb7e2200d2cbc9407": {
+      "projectId": "real-fi",
+      "name": "Protocol Mint",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "aadd6ebebadc62c4881949c489c0bb8224aa5310875359b59e5feb4f": {
+      "projectId": "real-fi",
+      "name": "Protocol Stake",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "6f1a5f04e94ea4b96c6beab2f10dfe78d5639db84f5d43d16bb97d01": {
+      "projectId": "real-fi",
+      "name": "Protocol Management",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "d77c0bea8bf5a2f8b3b401329ba22e77b2cd8fe88f2b8e2fc3781223": {
+      "projectId": "real-fi",
+      "name": "Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "7d2ddbadbe784afcf07442e5b2c35e9097da4be61162b5ee8848fe00": {
+      "projectId": "real-fi",
+      "name": "Treasury",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "2efab7b9fe036476f6e095f69cf4728917755e1f9c75204dcf510e89": {
+      "projectId": "real-fi",
+      "name": "Staking Vault",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "7d9e4a0ee1a3f5d5ff8159ea91a83310cf2795ee7a87170c7aea05ae": {
+      "projectId": "real-fi",
+      "name": "USDrf/sUSDrf Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "ef30fb14092d2175284248d8ed82fcfd65cbefdb2e2df9b45bc41711": {
+      "projectId": "real-fi",
+      "name": "Distribution Oracle",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "01dc62d1b7ba8c23b4706eb74127ffa1694160e30c21f43ff76ade5c": {
+      "projectId": "real-fi",
+      "name": "Yield Oracle",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "b1a939dd2bed1ba23ea3d10bb00819891154a96c456c43692ee9a54c": {
+      "projectId": "real-fi",
+      "name": "Proxy NFT Policy",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "2430e30b1b595fdd6d8e248b4125a9e84cded4b449e293576403c10e": {
+      "projectId": "real-fi",
+      "name": "Proxy Governance Multisig",
+      "purpose": "SPEND",
+      "type": "NATIVE"
     }
   },
   "projects": {
@@ -18150,6 +18233,11 @@
       "label": "Midnight",
       "category": "BLOCKCHAIN",
       "link": "https://midnight.network"
+    },
+    "real-fi": {
+      "label": "RealFi",
+      "category": "STABLECOIN",
+      "link": "https://realfi.co"
     }
   }
 }

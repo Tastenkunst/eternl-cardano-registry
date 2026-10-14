@@ -1,0 +1,26 @@
+{
+  "label": "RealFi",
+  "caption": "Yield-bearing stablecoin on Cardano",
+  "category": "STABLECOIN",
+  "link": {
+    "x": "https://x.com/realfi_co",
+    "discord": "https://discord.gg/realfi",
+    "website": "https://realfi.co",
+    "documentation": "https://docs.realfi.co",
+    "github": "https://github.com/realfi-co"
+  },
+  "scripts": [
+    { "name": "Protocol Orchestrator", "scriptHash": "7b5d4f9cb7209596c776aafce45a15c9faba1e88bb11d96e16c96f01", "purpose": "WITHDRAW", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Protocol Mint", "scriptHash": "6f62eb156a99a618608c0b8161f636d3f22b347cb7e2200d2cbc9407", "purpose": "WITHDRAW", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Protocol Stake", "scriptHash": "aadd6ebebadc62c4881949c489c0bb8224aa5310875359b59e5feb4f", "purpose": "WITHDRAW", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Protocol Management", "scriptHash": "6f1a5f04e94ea4b96c6beab2f10dfe78d5639db84f5d43d16bb97d01", "purpose": "WITHDRAW", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Order", "scriptHash": "d77c0bea8bf5a2f8b3b401329ba22e77b2cd8fe88f2b8e2fc3781223", "purpose": "SPEND", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Treasury", "scriptHash": "7d2ddbadbe784afcf07442e5b2c35e9097da4be61162b5ee8848fe00", "purpose": "SPEND/MINT", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Staking Vault", "scriptHash": "2efab7b9fe036476f6e095f69cf4728917755e1f9c75204dcf510e89", "purpose": "SPEND/MINT", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "USDrf/sUSDrf Policy", "scriptHash": "7d9e4a0ee1a3f5d5ff8159ea91a83310cf2795ee7a87170c7aea05ae", "purpose": "MINT", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Distribution Oracle", "scriptHash": "ef30fb14092d2175284248d8ed82fcfd65cbefdb2e2df9b45bc41711", "purpose": "WITHDRAW", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Yield Oracle", "scriptHash": "01dc62d1b7ba8c23b4706eb74127ffa1694160e30c21f43ff76ade5c", "purpose": "SPEND/MINT", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Proxy NFT Policy", "scriptHash": "b1a939dd2bed1ba23ea3d10bb00819891154a96c456c43692ee9a54c", "purpose": "MINT", "type": "PLUTUS", "plutusVersion": 3 },
+    { "name": "Proxy Governance Multisig", "scriptHash": "2430e30b1b595fdd6d8e248b4125a9e84cded4b449e293576403c10e", "purpose": "SPEND", "type": "NATIVE" }
+  ]
+}
