@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Merge upstream application 2.3.1.0 and retain isolated CLI integration settings. Resolve local Eternl dependencies against the coordinated Atlas 0.50.0 sources; preserve existing service behavior and runtime configuration.
+
+
 - Synchronize the isolated CLI service with application 2.3.0.1 and the 0.49.0 source packages. Retain the matching local workspace bindings.
 
 ## 2026-11-04 — CLI upstream integration
