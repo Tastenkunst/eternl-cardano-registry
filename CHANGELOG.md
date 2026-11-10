@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.1.5
+
+- Merge upstream application version metadata into the isolated CLI integration history. Preserve existing source behavior and local workspace dependencies; no deployment or publication is performed.
+
 ## Unreleased — 2.3.1.4 CLI service integration
 
 - Merge the refreshed upstream release and retain the isolated CLI workspace dependency policy. Frozen installs, service types and focused tests pass; source integration performs no deployment or service restart.
