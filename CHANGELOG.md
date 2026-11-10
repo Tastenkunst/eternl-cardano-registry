@@ -2,7 +2,7 @@
 
 ## 2.3.1.5
 
-- Refresh all 52 SDK workspace-version entries to 0.55.0 in the Bun lockfile. Dependency resolutions and source code are unchanged; offline frozen-lock validation passes.
+- Verify the existing Bun lockfile with offline frozen-lock validation. This consumer has no SDK workspace-version entries to update; dependency resolutions and source code are unchanged.
 
 - Merge upstream application version metadata into the isolated CLI integration history. Preserve existing source behavior and local workspace dependencies; no deployment or publication is performed.
 
