@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — 2.3.1.2 CLI service integration
+
+- Merge the latest upstream application release while preserving the CLI integration workspace and local dependency policy. No service deployment or restart is part of this change.
+
 ## Unreleased
 
 - Merge upstream application 2.3.1.0 and retain isolated CLI integration settings. Resolve local Eternl dependencies against the coordinated Atlas 0.50.0 sources; preserve existing service behavior and runtime configuration.
