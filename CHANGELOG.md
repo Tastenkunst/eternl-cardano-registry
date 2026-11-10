@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — 2.3.1.4 CLI service integration
+
+- Merge the refreshed upstream release and retain the isolated CLI workspace dependency policy. Frozen installs, service types and focused tests pass; source integration performs no deployment or service restart.
+
 ## Unreleased — 2.3.1.2 CLI service integration
 
 - Merge the latest upstream application release while preserving the CLI integration workspace and local dependency policy. No service deployment or restart is part of this change.
