@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — CLI service source sync, 2026-11-20
+
+- Synchronize the isolated CLI service worktree with its fetched upstream and Atlas 0.59.0 dependencies. Preserve the owner checkout and runtime configuration.
+
 ## 2.3.1.5
 
 - Verify the existing Bun lockfile with offline frozen-lock validation. This consumer has no SDK workspace-version entries to update; dependency resolutions and source code are unchanged.
